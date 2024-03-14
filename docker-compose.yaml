@@ -18,7 +18,7 @@ services:
     image: postgres:16
     container_name: dw_pg
     environment:
-      POSTGRES_DB: my_database
+      POSTGRES_DB: dw_tiki
       POSTGRES_USER: my_user
       POSTGRES_PASSWORD: my_password
     ports:
