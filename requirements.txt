@@ -1,2 +1,4 @@
 httpx==0.27.0
 boto3
+pyarrow
+s3fs

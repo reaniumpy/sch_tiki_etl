@@ -1,0 +1,2220 @@
+{
+    "data": [
+        {
+            "id": 74021317,
+            "sku": "5977911599303",
+            "name": "C\u00e2y Cam Ng\u1ecdt C\u1ee7a T\u00f4i",
+            "url_key": "cay-cam-ngot-cua-toi-p74021317",
+            "url_path": "cay-cam-ngot-cua-toi-p74021317.html?spid=74021318",
+            "type": "simple",
+            "book_cover": {
+                "id": 148966,
+                "value": "B\u00eca m\u1ec1m"
+            },
+            "short_description": "\u201cV\u1ecb chua ch\u00e1t c\u1ee7a c\u00e1i ngh\u00e8o h\u00f2a tr\u1ed9n v\u1edbi v\u1ecb ng\u1ecdt ng\u00e0o khi kh\u00e1m ph\u00e1 ra nh\u1eefng \u0111i\u1ec1u khi\u1ebfn cu\u1ed9c \u0111\u1eddi n\u00e0y \u0111\u00e1ng s\u1ed1 m\u1ed9t t\u00e1c ph\u1ea9m kinh \u0111i\u1ec3n c\u1ee7a Brazil.\u201d\n- Booklist\n\u201cM\u1ed9t c\u00e1ch nh\u00ecn cu\u1ed9c s\u1ed1ng g\u1ea7n nh\u01b0 ho\u00e0n ch\u1ec9nh...",
+            "price": 77300,
+            "list_price": 108000,
+            "price_usd": 3.304,
+            "badges": [
+                {
+                    "code": "tikinow",
+                    "text": "tikinow"
+                },
+                {
+                    "code": "fast_delivery",
+                    "text": "Giao nhanh",
+                    "option": "2h"
+                }
+            ],
+            "discount": 30700,
+            "discount_rate": 28,
+            "rating_average": 5,
+            "review_count": 14293,
+            "order_count": 0,
+            "favourite_count": 0,
+            "thumbnail_url": "https:\/\/salt.tikicdn.com\/cache\/280x280\/ts\/product\/5e\/18\/24\/2a6154ba08df6ce6161c13f4303fa19e.jpg",
+            "has_ebook": false,
+            "inventory_status": "available",
+            "is_visible": true,
+            "productset_group_name": "Nh\u00e0 S\u00e1ch Tiki\/S\u00e1ch ti\u1ebfng Vi\u1ec7t\/S\u00e1ch v\u0103n h\u1ecdc\/Ti\u1ec3u Thuy\u1ebft",
+            "is_fresh": false,
+            "seller": null,
+            "is_flower": false,
+            "is_gift_card": false,
+            "inventory": {
+                "product_virtual_type": null,
+                "fulfillment_type": "tiki_delivery"
+            },
+            "url_attendant_input_form": "",
+            "master_id": null,
+            "salable_type": "",
+            "seller_product_id": 74021318,
+            "sp_seller_id": 1,
+            "sp_seller_name": "Tiki Trading",
+            "installment_info": null,
+            "video_url": null,
+            "youtube": "",
+            "is_seller_in_chat_whitelist": true
+        },
+        {
+            "id": 188940817,
+            "sku": "8460723711989",
+            "name": "V\u1ecb Th\u1ea7n C\u1ee7a Nh\u1eefng Quy\u1ebft \u0110\u1ecbnh",
+            "url_key": "vi-than-cua-nhung-quyet-dinh-p188940817",
+            "url_path": "vi-than-cua-nhung-quyet-dinh-p188940817.html?spid=188940819",
+            "type": "configurable",
+            "book_cover": {
+                "id": 148966,
+                "value": "B\u00eca m\u1ec1m"
+            },
+            "short_description": "Kh\u00f4ng c\u00f3 g\u00ec l\u00e0 ng\u1eabu nhi\u00ean. \nM\u1ecdi chuy\u1ec7n \u0111\u1ec1u l\u00e0 t\u1ea5t nhi\u00ean.\nM\u1ed9t cu\u1ed1n s\u00e1ch t\u00e2m linh gi\u00fap b\u1ea1n gi\u1ea3i quy\u1ebft nh\u1eefng v\u1ea5n \u0111\u1ec1 trong cu\u1ed9c s\u1ed1ng, c\u00f4ng vi\u1ec7c, t\u00ecnh c\u1ea3m\u2026 N\u1ebfu b\u1ea1n \u0111ang ph\u00e2n v\u00e2n tr\u01b0\u1edbc nh\u1eefng l\u1ef1a ch\u1ecdn, n\u1ebfu...",
+            "price": 57200,
+            "list_price": 79000,
+            "price_usd": 2.445,
+            "badges": [
+                {
+                    "code": "tikinow",
+                    "text": "tikinow"
+                },
+                {
+                    "code": "fast_delivery",
+                    "text": "Giao nhanh",
+                    "option": "2h"
+                }
+            ],
+            "discount": 21800,
+            "discount_rate": 28,
+            "rating_average": 4.8,
+            "review_count": 1155,
+            "order_count": 0,
+            "favourite_count": 0,
+            "thumbnail_url": "https:\/\/salt.tikicdn.com\/cache\/280x280\/ts\/product\/16\/03\/26\/5cb2991cc6a258b7c1cc07105bccaa29.jpg",
+            "has_ebook": false,
+            "inventory_status": "available",
+            "is_visible": true,
+            "productset_group_name": "Nh\u00e0 S\u00e1ch Tiki\/S\u00e1ch ti\u1ebfng Vi\u1ec7t\/S\u00e1ch Ki\u1ebfn Th\u1ee9c T\u1ed5ng H\u1ee3p\/S\u00e1ch Chi\u00eam Tinh - Horoscope",
+            "is_fresh": false,
+            "seller": null,
+            "is_flower": false,
+            "is_gift_card": false,
+            "inventory": {
+                "product_virtual_type": null,
+                "fulfillment_type": "tiki_delivery"
+            },
+            "url_attendant_input_form": "",
+            "master_id": null,
+            "salable_type": "",
+            "seller_product_id": 188940819,
+            "sp_seller_id": 1,
+            "sp_seller_name": "Tiki Trading",
+            "installment_info": null,
+            "video_url": null,
+            "youtube": "",
+            "is_seller_in_chat_whitelist": true
+        },
+        {
+            "id": 189643105,
+            "sku": "7150413107642",
+            "name": "Kh\u00f4ng Ph\u1ea3i S\u00f3i Nh\u01b0ng C\u0169ng \u0110\u1eebng L\u00e0 C\u1eebu -T\u1eb7ng k\u00e8m bookmark 2 m\u1eb7t",
+            "url_key": "khong-phai-soi-nhung-cung-dung-la-cuu-tang-kem-bookmark-2-mat-p189643105",
+            "url_path": "khong-phai-soi-nhung-cung-dung-la-cuu-tang-kem-bookmark-2-mat-p189643105.html?spid=189643110",
+            "type": "simple",
+            "book_cover": {
+                "id": 148966,
+                "value": "B\u00eca m\u1ec1m"
+            },
+            "short_description": "S\u00d3I V\u00c0 C\u1eeaU - B\u1ea0N KH\u00d4NG T\u1ed0T NH\u01af B\u1ea0N NGH\u0128 \u0110\u00c2U! \nL\u00e0n ranh c\u1ee7a vi\u1ec7c ng\u00e2y th\u01a1 hay x\u1ea5u xa \u0111\u00f4i khi m\u1ecfng manh h\u01a1n b\u1ea1n ngh\u0129. \nB\u1ea1n l\u00e0m m\u1ed9t vi\u1ec7c m\u00e0 m\u00ecnh cho l\u00e0 \u0111\u00fang, k\u1ebft qu\u1ea3 l\u1ea1i b\u1ecb m\u1ecdi ng\u01b0\u1eddi khi\u1ec3n tr\u00e1ch. \nB\u1ea1n...",
+            "price": 96800,
+            "list_price": 128000,
+            "price_usd": 4.138,
+            "badges": [
+                {
+                    "code": "tikinow",
+                    "text": "tikinow"
+                },
+                {
+                    "code": "fast_delivery",
+                    "text": "Giao nhanh",
+                    "option": "2h"
+                }
+            ],
+            "discount": 31200,
+            "discount_rate": 24,
+            "rating_average": 4.8,
+            "review_count": 1537,
+            "order_count": 0,
+            "favourite_count": 0,
+            "thumbnail_url": "https:\/\/salt.tikicdn.com\/cache\/280x280\/ts\/product\/09\/2b\/e4\/e220a9a28a35a7c6ed3336e89c09178b.jpg",
+            "has_ebook": false,
+            "inventory_status": "available",
+            "is_visible": true,
+            "productset_group_name": "Nh\u00e0 S\u00e1ch Tiki\/S\u00e1ch ti\u1ebfng Vi\u1ec7t\/S\u00e1ch k\u1ef9 n\u0103ng s\u1ed1ng\/S\u00e1ch t\u01b0 duy - K\u1ef9 n\u0103ng s\u1ed1ng",
+            "is_fresh": false,
+            "seller": null,
+            "is_flower": false,
+            "is_gift_card": false,
+            "inventory": {
+                "product_virtual_type": null,
+                "fulfillment_type": "tiki_delivery"
+            },
+            "url_attendant_input_form": "",
+            "master_id": null,
+            "salable_type": "",
+            "seller_product_id": 189643110,
+            "sp_seller_id": 1,
+            "sp_seller_name": "Tiki Trading",
+            "installment_info": null,
+            "video_url": null,
+            "youtube": "",
+            "is_seller_in_chat_whitelist": true
+        },
+        {
+            "id": 26114399,
+            "sku": "6851692325469",
+            "name": "N\u00f3ng Gi\u1eadn L\u00e0 B\u1ea3n N\u0103ng , T\u0129nh L\u1eb7ng L\u00e0 B\u1ea3n L\u0129nh",
+            "url_key": "nong-gian-la-ban-nang-tinh-lang-la-ban-linh-p26114399",
+            "url_path": "nong-gian-la-ban-nang-tinh-lang-la-ban-linh-p26114399.html?spid=26114400",
+            "type": "simple",
+            "book_cover": {
+                "id": 148966,
+                "value": "B\u00eca m\u1ec1m"
+            },
+            "short_description": "Sai l\u1ea7m l\u1edbn nh\u1ea5t c\u1ee7a ch\u00fang ta l\u00e0 \u0111em nh\u1eefng t\u1eadt x\u1ea5u, nh\u1eefng c\u1ea3m x\u00fac ti\u00eau c\u1ef1c tr\u00fat b\u1ecf l\u00ean nh\u1eefng ng\u01b0\u1eddi xung quanh, c\u00e0ng l\u00e0 ng\u01b0\u1eddi th\u00e2n c\u00e0ng d\u1ec5 g\u00e2y th\u01b0\u01a1ng t\u1ed5n.\nC\u00e1i g\u00ec c\u0169ng n\u00f3i to\u1ea1c ra, c\u00e1i g\u00ec c\u0169ng b\u1ed9c l\u1ed9...",
+            "price": 79500,
+            "list_price": 89000,
+            "price_usd": 3.398,
+            "badges": [
+                {
+                    "code": "tikinow",
+                    "text": "tikinow"
+                },
+                {
+                    "code": "fast_delivery",
+                    "text": "Giao nhanh",
+                    "option": "2h"
+                }
+            ],
+            "discount": 9500,
+            "discount_rate": 11,
+            "rating_average": 4.8,
+            "review_count": 7312,
+            "order_count": 0,
+            "favourite_count": 0,
+            "thumbnail_url": "https:\/\/salt.tikicdn.com\/cache\/280x280\/ts\/product\/70\/9a\/98\/e6d54019a2079b9565114bce93b245b7.jpg",
+            "has_ebook": false,
+            "inventory_status": "available",
+            "is_visible": true,
+            "productset_group_name": "Nh\u00e0 S\u00e1ch Tiki\/S\u00e1ch ti\u1ebfng Vi\u1ec7t\/S\u00e1ch k\u1ef9 n\u0103ng s\u1ed1ng\/S\u00e1ch t\u01b0 duy - K\u1ef9 n\u0103ng s\u1ed1ng",
+            "is_fresh": false,
+            "seller": null,
+            "is_flower": false,
+            "is_gift_card": false,
+            "inventory": {
+                "product_virtual_type": null,
+                "fulfillment_type": "tiki_delivery"
+            },
+            "url_attendant_input_form": "",
+            "master_id": null,
+            "salable_type": "",
+            "seller_product_id": 26114400,
+            "sp_seller_id": 1,
+            "sp_seller_name": "Tiki Trading",
+            "installment_info": null,
+            "video_url": null,
+            "youtube": "",
+            "is_seller_in_chat_whitelist": true
+        },
+        {
+            "id": 109017985,
+            "sku": "8741635599269",
+            "name": "Thi\u00ean T\u00e0i B\u00ean Tr\u00e1i, K\u1ebb \u0110i\u00ean B\u00ean Ph\u1ea3i (T\u00e1i B\u1ea3n)",
+            "url_key": "thien-tai-ben-trai-ke-dien-ben-phai-tai-ban-p109017985",
+            "url_path": "thien-tai-ben-trai-ke-dien-ben-phai-tai-ban-p109017985.html?spid=109017987",
+            "type": "simple",
+            "book_cover": {
+                "id": 148966,
+                "value": "B\u00eca m\u1ec1m"
+            },
+            "short_description": "N\u1ebeU M\u1ed8T NG\u00c0Y ANH TH\u1ea4Y T\u00d4I \u0110I\u00caN, TH\u1ef0C RA CH\u00cdNH L\u00c0 ANH \u0110I\u00caN \u0110\u1ea4Y!\nH\u1ee1i nh\u1eefng con ng\u01b0\u1eddi \u0111ang o\u1eb1n m\u00ecnh trong cu\u1ed9c s\u1ed1ng, b\u1ea1n bi\u1ebft g\u00ec v\u1ec1 th\u1ebf gi\u1edbi c\u1ee7a m\u00ecnh? L\u00e0 v\u00f4 v\u00e0n th\u1ee9 l\u00fd thuy\u1ebft \u0111\u01b0\u1ee3c c\u00e1c b\u1eadc v\u0129 nh\u00e2n ki\u1ec3m...",
+            "price": 130000,
+            "list_price": 179000,
+            "price_usd": 5.557,
+            "badges": [
+                {
+                    "code": "tikinow",
+                    "text": "tikinow"
+                },
+                {
+                    "code": "fast_delivery",
+                    "text": "Giao nhanh",
+                    "option": "2h"
+                }
+            ],
+            "discount": 49000,
+            "discount_rate": 27,
+            "rating_average": 4.8,
+            "review_count": 5540,
+            "order_count": 0,
+            "favourite_count": 0,
+            "thumbnail_url": "https:\/\/salt.tikicdn.com\/cache\/280x280\/ts\/product\/7c\/e8\/34\/4d3636aadb471cad0bf2f45d681e4f23.jpg",
+            "has_ebook": false,
+            "inventory_status": "available",
+            "is_visible": true,
+            "productset_group_name": "Nh\u00e0 S\u00e1ch Tiki\/S\u00e1ch ti\u1ebfng Vi\u1ec7t\/S\u00e1ch v\u0103n h\u1ecdc\/Truy\u1ec7n ng\u1eafn - T\u1ea3n v\u0103n - T\u1ea1p V\u0103n",
+            "is_fresh": false,
+            "seller": null,
+            "is_flower": false,
+            "is_gift_card": false,
+            "inventory": {
+                "product_virtual_type": null,
+                "fulfillment_type": "tiki_delivery"
+            },
+            "url_attendant_input_form": "",
+            "master_id": null,
+            "salable_type": "",
+            "seller_product_id": 109017987,
+            "sp_seller_id": 1,
+            "sp_seller_name": "Tiki Trading",
+            "installment_info": null,
+            "video_url": null,
+            "youtube": "",
+            "is_seller_in_chat_whitelist": true
+        },
+        {
+            "id": 52789367,
+            "sku": "5279951395588",
+            "name": "Nh\u00e0 Gi\u1ea3 Kim (T\u00e1i B\u1ea3n 2020)",
+            "url_key": "nha-gia-kim-tai-ban-2020-p52789367",
+            "url_path": "nha-gia-kim-tai-ban-2020-p52789367.html?spid=52789368",
+            "type": "simple",
+            "book_cover": {
+                "id": 148966,
+                "value": "B\u00eca m\u1ec1m"
+            },
+            "short_description": "S\u01a1 l\u01b0\u1ee3c v\u1ec1 t\u00e1c ph\u1ea9m\nT\u1ea5t c\u1ea3 nh\u1eefng tr\u1ea3i nghi\u1ec7m trong chuy\u1ebfn phi\u00eau du theo \u0111u\u1ed5i v\u1eadn m\u1ec7nh c\u1ee7a m\u00ecnh \u0111\u00e3 gi\u00fap Santiago th\u1ea5u hi\u1ec3u \u0111\u01b0\u1ee3c \u00fd ngh\u0129a s\u00e2u xa nh\u1ea5t c\u1ee7a h\u1ea1nh ph\u00fac, h\u00f2a h\u1ee3p v\u1edbi v\u0169 tr\u1ee5 v\u00e0 con ng\u01b0\u1eddi.\nTi\u1ec3u...",
+            "price": 47400,
+            "list_price": 79000,
+            "price_usd": 2.026,
+            "badges": [
+                {
+                    "code": "tikinow",
+                    "text": "tikinow"
+                },
+                {
+                    "code": "fast_delivery",
+                    "text": "Giao nhanh",
+                    "option": "2h"
+                }
+            ],
+            "discount": 31600,
+            "discount_rate": 40,
+            "rating_average": 5,
+            "review_count": 6948,
+            "order_count": 0,
+            "favourite_count": 0,
+            "thumbnail_url": "https:\/\/salt.tikicdn.com\/cache\/280x280\/ts\/product\/45\/3b\/fc\/aa81d0a534b45706ae1eee1e344e80d9.jpg",
+            "has_ebook": false,
+            "inventory_status": "available",
+            "is_visible": true,
+            "productset_group_name": "Nh\u00e0 S\u00e1ch Tiki\/S\u00e1ch ti\u1ebfng Vi\u1ec7t\/S\u00e1ch v\u0103n h\u1ecdc\/T\u00e1c ph\u1ea9m kinh \u0111i\u1ec3n",
+            "is_fresh": false,
+            "seller": null,
+            "is_flower": false,
+            "is_gift_card": false,
+            "inventory": {
+                "product_virtual_type": null,
+                "fulfillment_type": "tiki_delivery"
+            },
+            "url_attendant_input_form": "",
+            "master_id": null,
+            "salable_type": "",
+            "seller_product_id": 52789368,
+            "sp_seller_id": 1,
+            "sp_seller_name": "Tiki Trading",
+            "installment_info": null,
+            "video_url": null,
+            "youtube": "",
+            "is_seller_in_chat_whitelist": true
+        },
+        {
+            "id": 10240037,
+            "sku": "9798371282668",
+            "name": "Th\u00f9ng 48 H\u1ed9p S\u1eefa Nestl\u00e9 MILO N\u01b0\u1edbc (180ml \/ H\u1ed9p)",
+            "url_key": "thung-48-hop-sua-nestle-milo-nuoc-180ml-hop-p10240037",
+            "url_path": "thung-48-hop-sua-nestle-milo-nuoc-180ml-hop-p10240037.html?spid=10240038",
+            "type": "simple",
+            "book_cover": null,
+            "short_description": "\nTh\u00f9ng 48 H\u1ed9p S\u1eefa Nestl\u00e9 MILO N\u01b0\u1edbc (180ml \/ H\u1ed9p) v\u1edbi c\u00f4ng th\u1ee9c Protomalt l\u00e0 chi\u1ebft xu\u1ea5t dinh d\u01b0\u1ee1ng v\u01b0\u1ee3t tr\u1ed9i t\u1eeb m\u1ea7m l\u00faa m\u1ea1ch nguy\u00ean c\u00e1m, s\u1eefa, b\u1ed9t ca cao \u0111\u01b0\u1ee3c b\u1ed5 sung nhi\u1ec1u Vitamin v\u00e0 kho\u00e1ng ch\u1ea5t, cung...",
+            "price": 350000,
+            "list_price": 370000,
+            "price_usd": 14.962,
+            "badges": [
+                {
+                    "code": "tikinow",
+                    "text": "tikinow"
+                },
+                {
+                    "code": "fast_delivery",
+                    "text": "Giao nhanh",
+                    "option": "24h"
+                },
+                {
+                    "code": "is_genuine"
+                }
+            ],
+            "discount": 20000,
+            "discount_rate": 5,
+            "rating_average": 4.8,
+            "review_count": 1839,
+            "order_count": 0,
+            "favourite_count": 0,
+            "thumbnail_url": "https:\/\/salt.tikicdn.com\/cache\/280x280\/ts\/product\/d7\/c8\/f5\/ec08dff519ca1b1c2f742ea837376ff1.jpg",
+            "has_ebook": false,
+            "inventory_status": "available",
+            "is_visible": true,
+            "productset_group_name": "B\u00e1ch H\u00f3a Online\/S\u1eefa v\u00e0 c\u00e1c S\u1ea3n ph\u1ea9m t\u1eeb s\u1eefa\/S\u1eefa n\u01b0\u1edbc\/C\u00e1c S\u1ea3n Ph\u1ea9m T\u1eeb S\u1eefa Kh\u00e1c",
+            "is_fresh": false,
+            "seller": null,
+            "is_flower": false,
+            "is_gift_card": false,
+            "inventory": {
+                "product_virtual_type": null,
+                "fulfillment_type": "tiki_delivery"
+            },
+            "url_attendant_input_form": "",
+            "master_id": null,
+            "salable_type": "",
+            "seller_product_id": 10240038,
+            "sp_seller_id": 1,
+            "sp_seller_name": "Tiki Trading",
+            "installment_info": null,
+            "video_url": null,
+            "youtube": "",
+            "is_seller_in_chat_whitelist": true
+        },
+        {
+            "id": 69764541,
+            "sku": "9554778221279",
+            "name": "T\u00e2m L\u00fd H\u1ecdc H\u00e0nh Vi (T\u1eb7ng K\u00e8m 1 Bookmark )",
+            "url_key": "tam-ly-hoc-hanh-vi-tang-kem-1-bookmark-p69764541",
+            "url_path": "tam-ly-hoc-hanh-vi-tang-kem-1-bookmark-p69764541.html?spid=69764542",
+            "type": "simple",
+            "book_cover": {
+                "id": 162353,
+                "value": "B\u00eca g\u1eadp"
+            },
+            "short_description": "T\u00e2m L\u00fd H\u1ecdc H\u00e0nh Vi\nCu\u1ed1n s\u00e1ch gi\u00fap b\u1ea1n th\u1ea5u hi\u1ec3u b\u1ea3n th\u00e2n m\u00ecnh v\u00e0 t\u00e2m l\u00fd nh\u1eefng ng\u01b0\u1eddi xung quanh!\n\u0110\u01b0\u1ee3c ch\u1ea5p b\u00fat b\u1edfi b\u1eadc th\u1ea7y t\u00e2m l\u00fd h\u00e0ng \u0111\u1ea7u Trung Qu\u1ed1c Kh\u01b0\u01a1ng Nguy.T\u00e2m l\u00fd h\u1ecdc theo ch\u1ee7 ngh\u0129a h\u00e0nh vi...",
+            "price": 71000,
+            "list_price": 98000,
+            "price_usd": 3.035,
+            "badges": [
+                {
+                    "code": "tikinow",
+                    "text": "tikinow"
+                },
+                {
+                    "code": "fast_delivery",
+                    "text": "Giao nhanh",
+                    "option": "2h"
+                }
+            ],
+            "discount": 27000,
+            "discount_rate": 28,
+            "rating_average": 5,
+            "review_count": 2888,
+            "order_count": 0,
+            "favourite_count": 0,
+            "thumbnail_url": "https:\/\/salt.tikicdn.com\/cache\/280x280\/ts\/product\/50\/bd\/eb\/51937df1d205a27deb93bde1dda06f05.jpg",
+            "has_ebook": false,
+            "inventory_status": "available",
+            "is_visible": true,
+            "productset_group_name": "Nh\u00e0 S\u00e1ch Tiki\/S\u00e1ch ti\u1ebfng Vi\u1ec7t\/S\u00e1ch k\u1ef9 n\u0103ng s\u1ed1ng\/S\u00e1ch t\u01b0 duy - K\u1ef9 n\u0103ng s\u1ed1ng",
+            "is_fresh": false,
+            "seller": null,
+            "is_flower": false,
+            "is_gift_card": false,
+            "inventory": {
+                "product_virtual_type": null,
+                "fulfillment_type": "tiki_delivery"
+            },
+            "url_attendant_input_form": "",
+            "master_id": null,
+            "salable_type": "",
+            "seller_product_id": 69764542,
+            "sp_seller_id": 1,
+            "sp_seller_name": "Tiki Trading",
+            "installment_info": null,
+            "video_url": null,
+            "youtube": "",
+            "is_seller_in_chat_whitelist": true
+        },
+        {
+            "id": 97551646,
+            "sku": "7656028145358",
+            "name": "B\u1ed9 2 Lon S\u1eefa B\u1ed9t Friso Gold 4 1400g D\u00e0nh Cho Tr\u1ebb T\u1eeb 2 - 6 Tu\u1ed5i + T\u1eb7ng Lon S\u1eefa Friso Gold 4 380g",
+            "url_key": "bo-2-hop-sua-bot-friso-gold-4-1400g-danh-cho-tre-tu-2-6-tuoi-tang-lon-sua-friso-gold-4-380g-p97551646",
+            "url_path": "bo-2-hop-sua-bot-friso-gold-4-1400g-danh-cho-tre-tu-2-6-tuoi-tang-lon-sua-friso-gold-4-380g-p97551646.html?spid=97551647",
+            "type": "simple",
+            "book_cover": null,
+            "short_description": "\nB\u1ed9 2 H\u1ed9p S\u1eefa B\u1ed9t Friso Gold 4 1400g D\u00e0nh Cho Tr\u1ebb T\u1eeb 2 - 6 Tu\u1ed5i + T\u1eb7ng Lon S\u1eefa Friso Gold 4 380g l\u00e0 s\u1ea3n ph\u1ea9m dinh d\u01b0\u1ee1ng c\u00f4ng th\u1ee9c d\u00e0nh cho tr\u1ebb t\u1eeb 6-12 th\u00e1ng tu\u1ed5i\nFrisolac Gold 4 cung c\u1ea5p \u0111a vi ch\u1ea5t...",
+            "price": 1300000,
+            "list_price": 1440000,
+            "price_usd": 55.572,
+            "badges": [
+                {
+                    "code": "tikinow",
+                    "text": "tikinow"
+                },
+                {
+                    "code": "fast_delivery",
+                    "text": "Giao nhanh",
+                    "option": "2h"
+                }
+            ],
+            "discount": 140000,
+            "discount_rate": 10,
+            "rating_average": 4.8,
+            "review_count": 1218,
+            "order_count": 0,
+            "favourite_count": 0,
+            "thumbnail_url": "https:\/\/salt.tikicdn.com\/cache\/280x280\/ts\/product\/ce\/61\/23\/674ab7795095dfc291877c9153acff1e.jpg",
+            "has_ebook": false,
+            "inventory_status": "available",
+            "is_visible": true,
+            "productset_group_name": "\u0110\u1ed3 Ch\u01a1i - M\u1eb9 & B\u00e9\/Dinh d\u01b0\u1ee1ng cho b\u00e9\/S\u1eefa b\u1ed9t cho b\u00e9\/S\u1eefa cho b\u00e9 tr\u00ean 24 th\u00e1ng",
+            "is_fresh": false,
+            "seller": null,
+            "is_flower": false,
+            "is_gift_card": false,
+            "inventory": {
+                "product_virtual_type": null,
+                "fulfillment_type": "tiki_delivery"
+            },
+            "url_attendant_input_form": "",
+            "master_id": null,
+            "salable_type": "",
+            "seller_product_id": 97551647,
+            "sp_seller_id": 1,
+            "sp_seller_name": "Tiki Trading",
+            "installment_info": null,
+            "video_url": null,
+            "youtube": "",
+            "is_seller_in_chat_whitelist": true
+        },
+        {
+            "id": 174444163,
+            "sku": "8940996830246",
+            "name": "Dear, Darling",
+            "url_key": "dear-darling-p174444163",
+            "url_path": "dear-darling-p174444163.html?spid=174444165",
+            "type": "simple",
+            "book_cover": {
+                "id": 148966,
+                "value": "B\u00eca m\u1ec1m"
+            },
+            "short_description": "\u201cDear, darling\nN\u1ebfu t\u00ecnh y\u00eau c\u00f3 h\u1ea1n s\u1eed d\u1ee5ng,\nEm mong l\u00e0 d\u00f9ng \u0111\u01b0\u1ee3c tr\u0103m n\u0103m.\u201d\nQuay tr\u1edf l\u1ea1i sau 2 n\u0103m v\u1eafng b\u00f3ng, \u201cDear darling\u201d c\u1ee7a Hi\u00ean g\u1eedi t\u1eb7ng b\u1ea1n nh\u1eefng l\u1eddi th\u1ee7 th\u1ec9 r\u1ea5t \u0111\u1ed7i d\u1ecbu d\u00e0ng, r\u1ea5t \u0111\u1ed7i ng\u1ecdt...",
+            "price": 64000,
+            "list_price": 88000,
+            "price_usd": 2.736,
+            "badges": [
+                {
+                    "code": "tikinow",
+                    "text": "tikinow"
+                },
+                {
+                    "code": "fast_delivery",
+                    "text": "Giao nhanh",
+                    "option": "2h"
+                }
+            ],
+            "discount": 24000,
+            "discount_rate": 27,
+            "rating_average": 4.8,
+            "review_count": 939,
+            "order_count": 0,
+            "favourite_count": 0,
+            "thumbnail_url": "https:\/\/salt.tikicdn.com\/cache\/280x280\/ts\/product\/03\/03\/07\/3fbe7cc39c9fe08b308274a03099c1c1.jpg",
+            "has_ebook": false,
+            "inventory_status": "available",
+            "is_visible": true,
+            "productset_group_name": "Nh\u00e0 S\u00e1ch Tiki\/S\u00e1ch ti\u1ebfng Vi\u1ec7t\/S\u00e1ch v\u0103n h\u1ecdc\/Truy\u1ec7n ng\u1eafn - T\u1ea3n v\u0103n - T\u1ea1p V\u0103n",
+            "is_fresh": false,
+            "seller": null,
+            "is_flower": false,
+            "is_gift_card": false,
+            "inventory": {
+                "product_virtual_type": null,
+                "fulfillment_type": "tiki_delivery"
+            },
+            "url_attendant_input_form": "",
+            "master_id": null,
+            "salable_type": "",
+            "seller_product_id": 174444165,
+            "sp_seller_id": 1,
+            "sp_seller_name": "Tiki Trading",
+            "installment_info": null,
+            "video_url": null,
+            "youtube": "",
+            "is_seller_in_chat_whitelist": true
+        },
+        {
+            "id": 73207240,
+            "sku": "8787420605399",
+            "name": "Xa Ngo\u00e0i Kia N\u01a1i Lo\u00e0i T\u00f4m H\u00e1t - Where The Crawdads Sing",
+            "url_key": "xa-ngoai-kia-noi-loai-tom-hat-where-the-crawdads-sing-p73207240",
+            "url_path": "xa-ngoai-kia-noi-loai-tom-hat-where-the-crawdads-sing-p73207240.html?spid=73523598",
+            "type": "simple",
+            "book_cover": null,
+            "short_description": "Xa Ngo\u00e0i Kia N\u01a1i Lo\u00e0i T\u00f4m H\u00e1t \n  S\u00e1u tri\u1ec7u b\u1ea3n b\u00e1n ra tr\u00ean to\u00e0n th\u1ebf gi\u1edbi58 tu\u1ea7n trong danh s\u00e1ch b\u00e1n ch\u1ea1y c\u1ee7a New York TimesD\u1eabn \u0111\u1ea7u m\u1ee5c ti\u1ec3u thuy\u1ebft b\u00e1n ch\u1ea1y c\u1ee7a Amazon trong n\u0103m 2019 \n  Trong nhi\u1ec1u...",
+            "price": 115000,
+            "list_price": 165000,
+            "price_usd": 4.916,
+            "badges": [
+                {
+                    "code": "tikinow",
+                    "text": "tikinow"
+                },
+                {
+                    "code": "fast_delivery",
+                    "text": "Giao nhanh",
+                    "option": "2h"
+                }
+            ],
+            "discount": 50000,
+            "discount_rate": 30,
+            "rating_average": 5,
+            "review_count": 633,
+            "order_count": 0,
+            "favourite_count": 0,
+            "thumbnail_url": "https:\/\/salt.tikicdn.com\/cache\/280x280\/ts\/product\/9a\/df\/6d\/0c3ad2b36f781ea61a47828a04db71a0.jpg",
+            "has_ebook": false,
+            "inventory_status": "available",
+            "is_visible": true,
+            "productset_group_name": "Nh\u00e0 S\u00e1ch Tiki\/S\u00e1ch ti\u1ebfng Vi\u1ec7t\/S\u00e1ch v\u0103n h\u1ecdc\/Ti\u1ec3u Thuy\u1ebft",
+            "is_fresh": false,
+            "seller": null,
+            "is_flower": false,
+            "is_gift_card": false,
+            "inventory": {
+                "product_virtual_type": null,
+                "fulfillment_type": "tiki_delivery"
+            },
+            "url_attendant_input_form": "",
+            "master_id": null,
+            "salable_type": "",
+            "seller_product_id": 73523598,
+            "sp_seller_id": 1,
+            "sp_seller_name": "Tiki Trading",
+            "installment_info": null,
+            "video_url": null,
+            "youtube": "",
+            "is_seller_in_chat_whitelist": true
+        },
+        {
+            "id": 121635154,
+            "sku": "7794004489041",
+            "name": "\u0110i\u1ec1u \u0110\u1eb9p Nh\u1ea5t C\u00f3 Khi L\u00e0 Bu\u00f4ng Tay (T\u1eb7ng K\u00e8m Bookmark)",
+            "url_key": "dieu-dep-nhat-co-khi-la-buong-tay-tang-kem-bookmark-p121635154",
+            "url_path": "dieu-dep-nhat-co-khi-la-buong-tay-tang-kem-bookmark-p121635154.html?spid=121635155",
+            "type": "simple",
+            "book_cover": {
+                "id": 148966,
+                "value": "B\u00eca m\u1ec1m"
+            },
+            "short_description": "\u201cNh\u01b0\u0303ng \u0111i\u00ea\u0300u \u0111u\u031b\u01a1\u0323c \u0111i\u0323nh s\u0103\u0303n l\u00e0 d\u00e0nh cho ba\u0323n se\u0303 \u0111\u00ea\u0301n v\u01a1\u0301i ba\u0323n, ngay ca\u0309 khi n\u00f3 bi\u0323 ch\u00f4n v\u00f9i du\u031b\u01a1\u0301i hai ngo\u0323n n\u00fai. Nh\u01b0\u0303ng \u0111i\u00ea\u0300u kh\u00f4ng \u0111u\u031b\u01a1\u0323c \u0111i\u0323nh s\u0103\u0303n l\u00e0 d\u00e0nh cho ba\u0323n se\u0303 kh\u00f4ng \u0111\u00ea\u0301n v\u01a1\u0301i ba\u0323n,...",
+            "price": 54200,
+            "list_price": 72000,
+            "price_usd": 2.317,
+            "badges": [
+                {
+                    "code": "tikinow",
+                    "text": "tikinow"
+                },
+                {
+                    "code": "fast_delivery",
+                    "text": "Giao nhanh",
+                    "option": "2h"
+                }
+            ],
+            "discount": 17800,
+            "discount_rate": 25,
+            "rating_average": 4.8,
+            "review_count": 652,
+            "order_count": 0,
+            "favourite_count": 0,
+            "thumbnail_url": "https:\/\/salt.tikicdn.com\/cache\/280x280\/ts\/product\/fa\/22\/96\/e8df06c3e3334bbb9a38e8259989d6a5.jpg",
+            "has_ebook": false,
+            "inventory_status": "available",
+            "is_visible": true,
+            "productset_group_name": "Nh\u00e0 S\u00e1ch Tiki\/S\u00e1ch ti\u1ebfng Vi\u1ec7t\/S\u00e1ch v\u0103n h\u1ecdc\/Truy\u1ec7n ng\u1eafn - T\u1ea3n v\u0103n - T\u1ea1p V\u0103n",
+            "is_fresh": false,
+            "seller": null,
+            "is_flower": false,
+            "is_gift_card": false,
+            "inventory": {
+                "product_virtual_type": null,
+                "fulfillment_type": "tiki_delivery"
+            },
+            "url_attendant_input_form": "",
+            "master_id": null,
+            "salable_type": "",
+            "seller_product_id": 121635155,
+            "sp_seller_id": 1,
+            "sp_seller_name": "Tiki Trading",
+            "installment_info": null,
+            "video_url": null,
+            "youtube": "",
+            "is_seller_in_chat_whitelist": true
+        },
+        {
+            "id": 147920903,
+            "sku": "1967959392540",
+            "name": "M\u1ed9t Tho\u00e1ng Ta R\u1ef1c R\u1ee1 \u1ede Nh\u00e2n Gian",
+            "url_key": "mot-thoang-ta-ruc-ro-o-nhan-gian-p147920903",
+            "url_path": "mot-thoang-ta-ruc-ro-o-nhan-gian-p147920903.html?spid=147920904",
+            "type": "simple",
+            "book_cover": {
+                "id": 148966,
+                "value": "B\u00eca m\u1ec1m"
+            },
+            "short_description": "\u201cVuong th\u1ef1c s\u1ef1 c\u00f3 thi\u00ean t\u00e0i quan s\u00e1t.\u201d The New York Times\n\u201cV\u1edbi m\u1ed9t xu\u1ea5t th\u00e2n b\u00ean r\u00eca h\u1ebft s\u1ee9c xa l\u1ea1, Vuong \u0111\u00e3 vi\u1ebft n\u00ean m\u1ed9t t\u00e1c ph\u1ea9m tr\u1eef t\u00ecnh v\u1ec1 qu\u00e1 tr\u00ecnh t\u1ef1 kh\u00e1m ph\u00e1 ch\u00ednh m\u00ecnh, v\u1eeba th\u00e0nh th\u1eadt \u0111\u1ebfn...",
+            "price": 81000,
+            "list_price": 135000,
+            "price_usd": 3.463,
+            "badges": [
+                {
+                    "code": "tikinow",
+                    "text": "tikinow"
+                },
+                {
+                    "code": "fast_delivery",
+                    "text": "Giao nhanh",
+                    "option": "2h"
+                }
+            ],
+            "discount": 54000,
+            "discount_rate": 40,
+            "rating_average": 4.8,
+            "review_count": 1998,
+            "order_count": 0,
+            "favourite_count": 0,
+            "thumbnail_url": "https:\/\/salt.tikicdn.com\/cache\/280x280\/ts\/product\/2f\/b5\/4e\/a8208e9019c8510e8a8eebe06f50299c.jpg",
+            "has_ebook": false,
+            "inventory_status": "available",
+            "is_visible": true,
+            "productset_group_name": "Nh\u00e0 S\u00e1ch Tiki\/S\u00e1ch ti\u1ebfng Vi\u1ec7t\/S\u00e1ch v\u0103n h\u1ecdc\/Ti\u1ec3u Thuy\u1ebft",
+            "is_fresh": false,
+            "seller": null,
+            "is_flower": false,
+            "is_gift_card": false,
+            "inventory": {
+                "product_virtual_type": null,
+                "fulfillment_type": "tiki_delivery"
+            },
+            "url_attendant_input_form": "",
+            "master_id": null,
+            "salable_type": "",
+            "seller_product_id": 147920904,
+            "sp_seller_id": 1,
+            "sp_seller_name": "Tiki Trading",
+            "installment_info": null,
+            "video_url": null,
+            "youtube": "",
+            "is_seller_in_chat_whitelist": true
+        },
+        {
+            "id": 3954355,
+            "sku": "3044489264000",
+            "name": "Y\u00eau Nh\u1eefng \u0110i\u1ec1u Kh\u00f4ng Ho\u00e0n H\u1ea3o",
+            "url_key": "yeu-nhung-dieu-khong-hoan-hao-p3954355",
+            "url_path": "yeu-nhung-dieu-khong-hoan-hao-p3954355.html?spid=3955615",
+            "type": "simple",
+            "book_cover": {
+                "id": 148966,
+                "value": "B\u00eca m\u1ec1m"
+            },
+            "short_description": "Y\u00eau Nh\u1eefng \u0110i\u1ec1u Kh\u00f4ng Ho\u00e0n H\u1ea3o\n\u0110\u1ea1i \u0111\u1ee9c Hae Min sinh ra v\u00e0 l\u1edbn l\u00ean t\u1ea1i H\u00e0n Qu\u1ed1c. Sau khi ho\u00e0n th\u00e0nh b\u1eb1ng Th\u1ea1c s\u0129 T\u00f4n gi\u00e1o h\u1ecdc \u0111\u1ed1i chi\u1ebfu \u1edf \u0110\u1ea1i h\u1ecdc Havard v\u00e0 Ti\u1ebfn s\u0129 T\u00f4n gi\u00e1o h\u1ecdc \u1edf \u0110\u1ea1i h\u1ecdc Princeton, \u00f4ng...",
+            "price": 107000,
+            "list_price": 139000,
+            "price_usd": 4.574,
+            "badges": [
+                {
+                    "code": "tikinow",
+                    "text": "tikinow"
+                },
+                {
+                    "code": "fast_delivery",
+                    "text": "Giao nhanh",
+                    "option": "2h"
+                }
+            ],
+            "discount": 32000,
+            "discount_rate": 23,
+            "rating_average": 5,
+            "review_count": 4494,
+            "order_count": 0,
+            "favourite_count": 0,
+            "thumbnail_url": "https:\/\/salt.tikicdn.com\/cache\/280x280\/ts\/product\/54\/55\/d6\/4ceb6ba3bd81614df8ff4c1411b11f59.jpg",
+            "has_ebook": false,
+            "inventory_status": "available",
+            "is_visible": true,
+            "productset_group_name": "Nh\u00e0 S\u00e1ch Tiki\/S\u00e1ch ti\u1ebfng Vi\u1ec7t\/S\u00e1ch v\u0103n h\u1ecdc\/Truy\u1ec7n ng\u1eafn - T\u1ea3n v\u0103n - T\u1ea1p V\u0103n",
+            "is_fresh": false,
+            "seller": null,
+            "is_flower": false,
+            "is_gift_card": false,
+            "inventory": {
+                "product_virtual_type": null,
+                "fulfillment_type": "tiki_delivery"
+            },
+            "url_attendant_input_form": "",
+            "master_id": null,
+            "salable_type": "",
+            "seller_product_id": 3955615,
+            "sp_seller_id": 1,
+            "sp_seller_name": "Tiki Trading",
+            "installment_info": null,
+            "video_url": null,
+            "youtube": "",
+            "is_seller_in_chat_whitelist": true
+        },
+        {
+            "id": 59504295,
+            "sku": "7915089060162",
+            "name": "D\u1ea7u \u0102n Th\u01b0\u1ee3ng H\u1ea1ng Nh\u00e3n Hi\u1ec7u Neptune Light 1L\/2L\/5L",
+            "url_key": "dau-an-thuong-hang-nhan-hieu-neptune-light-p59504295",
+            "url_path": "dau-an-thuong-hang-nhan-hieu-neptune-light-p59504295.html?spid=59504299",
+            "type": "configurable",
+            "book_cover": null,
+            "short_description": "\nD\u1ea7u \u0102n Th\u01b0\u1ee3ng H\u1ea1ng Nh\u00e3n Hi\u1ec7u Neptune Light gi\u1ea3m h\u1ea5p th\u1ee5 cholesterol t\u1eeb th\u1ef1c ph\u1ea9m: Kh\u00f4ng nh\u1eefng kh\u00f4ng ch\u1ee9a cholesterol, d\u1ea7u \u0103n th\u01b0\u1ee3ng h\u1ea1ng Neptune Light c\u00f2n gi\u00fap c\u01a1 th\u1ec3 gi\u1ea3m h\u1ea5p th\u1ee5 cholesterol t\u1eeb...",
+            "price": 130000,
+            "list_price": 130000,
+            "price_usd": 5.557,
+            "badges": [
+                {
+                    "code": "tikinow",
+                    "text": "tikinow"
+                },
+                {
+                    "code": "fast_delivery",
+                    "text": "Giao nhanh",
+                    "option": "24h"
+                }
+            ],
+            "discount": 0,
+            "discount_rate": 0,
+            "rating_average": 5,
+            "review_count": 1724,
+            "order_count": 0,
+            "favourite_count": 0,
+            "thumbnail_url": "https:\/\/salt.tikicdn.com\/cache\/280x280\/ts\/product\/d3\/d1\/94\/2f3850d6cd659202b8573cc55aea7d65.jpg",
+            "has_ebook": false,
+            "inventory_status": "available",
+            "is_visible": true,
+            "productset_group_name": "B\u00e1ch H\u00f3a Online\/Gia V\u1ecb v\u00e0 Ch\u1ebf Bi\u1ebfn\/D\u1ea7u \u0103n\/D\u1ea7u th\u1ef1c v\u1eadt",
+            "is_fresh": false,
+            "seller": null,
+            "is_flower": false,
+            "is_gift_card": false,
+            "inventory": {
+                "product_virtual_type": null,
+                "fulfillment_type": "tiki_delivery"
+            },
+            "url_attendant_input_form": "",
+            "master_id": null,
+            "salable_type": "",
+            "seller_product_id": 59504299,
+            "sp_seller_id": 1,
+            "sp_seller_name": "Tiki Trading",
+            "installment_info": null,
+            "video_url": null,
+            "youtube": "",
+            "is_seller_in_chat_whitelist": true
+        },
+        {
+            "id": 73787185,
+            "sku": "6372567555779",
+            "name": "Nh\u1eefng T\u00f9 Nh\u00e2n C\u1ee7a \u0110\u1ecba L\u00fd",
+            "url_key": "nhung-tu-nhan-cua-dia-ly-p73787185",
+            "url_path": "nhung-tu-nhan-cua-dia-ly-p73787185.html?spid=73787186",
+            "type": "simple",
+            "book_cover": {
+                "id": 148966,
+                "value": "B\u00eca m\u1ec1m"
+            },
+            "short_description": "\u201cKhi ch\u00fang ta \u0111ang v\u01b0\u01a1n t\u1edbi nh\u1eefng v\u00ec sao, ch\u00ednh b\u1edfi nh\u1eefng th\u00e1ch th\u1ee9c \u0111\u1eb7t ra ph\u00eda tr\u01b0\u1edbc m\u00e0 ch\u00fang ta c\u00f3 l\u1ebd s\u1ebd ph\u1ea3i chung tay \u0111\u1ec3 \u1ee9ng ph\u00f3: du h\u00e0nh v\u00e0o v\u0169 tr\u1ee5 kh\u00f4ng ph\u1ea3i v\u1edbi t\u01b0 c\u00e1ch ng\u01b0\u1eddi Nga, ng\u01b0\u1eddi Trung...",
+            "price": 163000,
+            "list_price": 210000,
+            "price_usd": 6.968,
+            "badges": [
+                {
+                    "code": "tikinow",
+                    "text": "tikinow"
+                },
+                {
+                    "code": "fast_delivery",
+                    "text": "Giao nhanh",
+                    "option": "2h"
+                }
+            ],
+            "discount": 47000,
+            "discount_rate": 22,
+            "rating_average": 4.8,
+            "review_count": 4783,
+            "order_count": 0,
+            "favourite_count": 0,
+            "thumbnail_url": "https:\/\/salt.tikicdn.com\/cache\/280x280\/ts\/product\/8d\/96\/9e\/c0c1f23db756d50b1944dff9c3988753.jpg",
+            "has_ebook": false,
+            "inventory_status": "available",
+            "is_visible": true,
+            "productset_group_name": "Nh\u00e0 S\u00e1ch Tiki\/S\u00e1ch ti\u1ebfng Vi\u1ec7t\/S\u00e1ch Ki\u1ebfn Th\u1ee9c T\u1ed5ng H\u1ee3p\/L\u0129nh v\u1ef1c kh\u00e1c",
+            "is_fresh": false,
+            "seller": null,
+            "is_flower": false,
+            "is_gift_card": false,
+            "inventory": {
+                "product_virtual_type": null,
+                "fulfillment_type": "tiki_delivery"
+            },
+            "url_attendant_input_form": "",
+            "master_id": null,
+            "salable_type": "",
+            "seller_product_id": 73787186,
+            "sp_seller_id": 1,
+            "sp_seller_name": "Tiki Trading",
+            "installment_info": null,
+            "video_url": null,
+            "youtube": "",
+            "is_seller_in_chat_whitelist": true
+        },
+        {
+            "id": 632680,
+            "sku": "3469267168798",
+            "name": "D\u1ea7u g\u1ed9i Selsun ch\u1ed1ng g\u00e0u, s\u1ea1ch g\u00e0u & h\u1ebft ng\u1ee9a da \u0111\u1ea7u Selsun Anti-Dandruff Shampoo 100ml",
+            "url_key": "dau-goi-selsun-chong-gau-sach-gau-het-ngua-da-dau-selsun-anti-dandruff-shampoo-100ml-p632680",
+            "url_path": "dau-goi-selsun-chong-gau-sach-gau-het-ngua-da-dau-selsun-anti-dandruff-shampoo-100ml-p632680.html?spid=10862721",
+            "type": "simple",
+            "book_cover": null,
+            "short_description": " \r\n\r\nD\u1ea7u G\u1ed9i Ch\u1ed1ng G\u00e0u Selsun (100ml) l\u00e0 gi\u1ea3i ph\u00e1p\u00a0ch\u0103m s\u00f3c t\u00f3c hi\u1ec7u qu\u1ea3 sau m\u1ed9t ng\u00e0y d\u00e0i ti\u1ebfp x\u00fac v\u1edbi kh\u00f3i b\u1ee5i\u00a0\u00f4 nhi\u1ec5m v\u00e0 n\u1eafng n\u00f3ng. S\u1ea3n ph\u1ea9m c\u00f3 s\u1ef1 k\u1ebft h\u1ee3p ho\u00e0n h\u1ea3o gi\u1eefa th\u00e0nh ph\u1ea7n d\u01b0\u1ee1ng t\u00f3c...",
+            "price": 82000,
+            "list_price": 95000,
+            "price_usd": 3.505,
+            "badges": [
+                {
+                    "code": "is_genuine"
+                }
+            ],
+            "discount": 13000,
+            "discount_rate": 14,
+            "rating_average": 4.8,
+            "review_count": 2130,
+            "order_count": 0,
+            "favourite_count": 0,
+            "thumbnail_url": "https:\/\/salt.tikicdn.com\/cache\/280x280\/media\/catalog\/product\/r\/m\/rmv-s-s100.u4064.d20170504.t114612.423338.jpg",
+            "has_ebook": false,
+            "inventory_status": "available",
+            "is_visible": true,
+            "productset_group_name": "L\u00e0m \u0110\u1eb9p - S\u1ee9c Kh\u1ecfe\/Ch\u0103m s\u00f3c t\u00f3c v\u00e0 da \u0111\u1ea7u\/D\u1ea7u g\u1ed9i, d\u1ea7u x\u1ea3\/D\u1ea7u G\u1ed9i",
+            "is_fresh": false,
+            "seller": null,
+            "is_flower": false,
+            "is_gift_card": false,
+            "inventory": {
+                "product_virtual_type": null,
+                "fulfillment_type": "tiki_delivery"
+            },
+            "url_attendant_input_form": "",
+            "master_id": null,
+            "salable_type": "",
+            "seller_product_id": 10862721,
+            "sp_seller_id": 1,
+            "sp_seller_name": "Tiki Trading",
+            "installment_info": null,
+            "video_url": null,
+            "youtube": "",
+            "is_seller_in_chat_whitelist": true
+        },
+        {
+            "id": 117254517,
+            "sku": "7127356302308",
+            "name": "\u0110\u1ea1i D\u01b0\u01a1ng \u0110en - Nh\u1eefng C\u00e2u Chuy\u1ec7n T\u1eeb Th\u1ebf Gi\u1edbi C\u1ee7a Tr\u1ea7m C\u1ea3m",
+            "url_key": "dai-duong-den-nhung-cau-chuyen-tu-the-gioi-cua-tram-cam-p117254517",
+            "url_path": "dai-duong-den-nhung-cau-chuyen-tu-the-gioi-cua-tram-cam-p117254517.html?spid=117254521",
+            "type": "simple",
+            "book_cover": {
+                "id": 148966,
+                "value": "B\u00eca m\u1ec1m"
+            },
+            "short_description": "\u201cT\u00f4i s\u1ee3 nh\u1eefng c\u01a1n c\u1ee7a m\u00ecnh, ch\u00fang x\u00e2m chi\u1ebfm n\u00e3o b\u1ed9 t\u00f4i, nh\u1ea5n ch\u00ecm l\u00fd tr\u00ed c\u1ee7a t\u00f4i, ch\u00fang ph\u01a1i b\u00e0y s\u1ef1 \u0111au \u0111\u1edbn, c\u00f4 \u0111\u01a1n, n\u1ed7i s\u1ea7u th\u1ea3m su\u1ed1t nh\u1eefng n\u0103m th\u00e1ng ni\u00ean thi\u1ebfu c\u1ee7a t\u00f4i, s\u1ef1 \u00e1m \u1ea3nh c\u1ee7a b\u1ea1o l\u1ef1c, c\u1ee7a...",
+            "price": 186000,
+            "list_price": 240000,
+            "price_usd": 7.951,
+            "badges": [
+                {
+                    "code": "tikinow",
+                    "text": "tikinow"
+                },
+                {
+                    "code": "fast_delivery",
+                    "text": "Giao nhanh",
+                    "option": "2h"
+                }
+            ],
+            "discount": 54000,
+            "discount_rate": 23,
+            "rating_average": 5,
+            "review_count": 2353,
+            "order_count": 0,
+            "favourite_count": 0,
+            "thumbnail_url": "https:\/\/salt.tikicdn.com\/cache\/280x280\/ts\/product\/f7\/fb\/9a\/e8b9a94478dc887c4b84b6b6439f6335.jpg",
+            "has_ebook": false,
+            "inventory_status": "available",
+            "is_visible": true,
+            "productset_group_name": "Nh\u00e0 S\u00e1ch Tiki\/S\u00e1ch ti\u1ebfng Vi\u1ec7t\/S\u00e1ch v\u0103n h\u1ecdc\/Truy\u1ec7n ng\u1eafn - T\u1ea3n v\u0103n - T\u1ea1p V\u0103n",
+            "is_fresh": false,
+            "seller": null,
+            "is_flower": false,
+            "is_gift_card": false,
+            "inventory": {
+                "product_virtual_type": null,
+                "fulfillment_type": "tiki_delivery"
+            },
+            "url_attendant_input_form": "",
+            "master_id": null,
+            "salable_type": "",
+            "seller_product_id": 117254521,
+            "sp_seller_id": 1,
+            "sp_seller_name": "Tiki Trading",
+            "installment_info": null,
+            "video_url": null,
+            "youtube": "",
+            "is_seller_in_chat_whitelist": true
+        },
+        {
+            "id": 1000534,
+            "sku": "3705169767456",
+            "name": "S\u1eefa B\u1ed9t Anlene Gold Movepro H\u01b0\u01a1ng Vanilla (H\u1ed9p Gi\u1ea5y 440g)",
+            "url_key": "sua-bot-anlene-gold-movepro-huong-vanilla-hop-giay-440g-p1000534",
+            "url_path": "sua-bot-anlene-gold-movepro-huong-vanilla-hop-giay-440g-p1000534.html?spid=1001708",
+            "type": "simple",
+            "book_cover": null,
+            "short_description": "_x000D_\n  S\u1eefa B\u1ed9t Anlene Gold Movepro H\u01b0\u01a1ng Vanilla (H\u1ed9p Gi\u1ea5y 440g)  g\u1ed3m c\u00e1c d\u01b0\u1ee1ng ch\u1ea5t thi\u1ebft y\u1ebfu nh\u01b0 canxi, vitamin D, \u0111\u1ea1m, magi\u00ea v\u00e0 FOS inulin gi\u00fap x\u01b0\u01a1ng ch\u1eafc kho\u1ebb h\u01a1n m\u1ed7i ng\u00e0y, ph\u00f2ng ch\u1ed1ng        ...",
+            "price": 193000,
+            "list_price": 193000,
+            "price_usd": 8.25,
+            "badges": [
+                {
+                    "code": "tikinow",
+                    "text": "tikinow"
+                },
+                {
+                    "code": "fast_delivery",
+                    "text": "Giao nhanh",
+                    "option": "2h"
+                }
+            ],
+            "discount": 0,
+            "discount_rate": 0,
+            "rating_average": 4.8,
+            "review_count": 238,
+            "order_count": 0,
+            "favourite_count": 0,
+            "thumbnail_url": "https:\/\/salt.tikicdn.com\/cache\/280x280\/ts\/product\/62\/79\/ee\/510404e60c2f7077033db1a8d0d8b250.jpg",
+            "has_ebook": false,
+            "inventory_status": "available",
+            "is_visible": true,
+            "productset_group_name": "\u0110\u1ed3 Ch\u01a1i - M\u1eb9 & B\u00e9\/Dinh d\u01b0\u1ee1ng cho ng\u01b0\u1eddi l\u1edbn",
+            "is_fresh": false,
+            "seller": null,
+            "is_flower": false,
+            "is_gift_card": false,
+            "inventory": {
+                "product_virtual_type": null,
+                "fulfillment_type": "tiki_delivery"
+            },
+            "url_attendant_input_form": "",
+            "master_id": null,
+            "salable_type": "",
+            "seller_product_id": 1001708,
+            "sp_seller_id": 1,
+            "sp_seller_name": "Tiki Trading",
+            "installment_info": null,
+            "video_url": null,
+            "youtube": "",
+            "is_seller_in_chat_whitelist": true
+        },
+        {
+            "id": 42230121,
+            "sku": "3098193178849",
+            "name": "S\u00e1ch Hi\u1ec3u V\u1ec1 Tr\u00e1i Tim (T\u00e1i B\u1ea3n 2019) - Minh Ni\u1ec7m",
+            "url_key": "sach-hieu-ve-trai-tim-tai-ban-2019-minh-niem-p42230121",
+            "url_path": "sach-hieu-ve-trai-tim-tai-ban-2019-minh-niem-p42230121.html?spid=42230122",
+            "type": "simple",
+            "book_cover": {
+                "id": 148966,
+                "value": "B\u00eca m\u1ec1m"
+            },
+            "short_description": "\nHi\u1ec3u V\u1ec1 Tr\u00e1i Tim \u2013 Cu\u1ed1n S\u00e1ch M\u1edf C\u1eeda Th\u1ec1 Gi\u1edbi C\u1ea3m X\u00fac C\u1ee7a M\u1ed7i Ng\u01b0\u1eddi\nXu\u1ea5t b\u1ea3n l\u1ea7n \u0111\u1ea7u ti\u00ean v\u00e0o n\u0103m 2011, Hi\u1ec3u V\u1ec1 Tr\u00e1i Tim tr\u00ecnh l\u00e0ng c\u0169ng l\u00fac v\u1edbi k\u1ef7 l\u1ee5c: cu\u1ed1n s\u00e1ch c\u00f3 s\u1ed1 l\u01b0\u1ee3ng in l\u1ea7n \u0111\u1ea7u l\u1edbn nh\u1ea5t: 100...",
+            "price": 130500,
+            "list_price": 138000,
+            "price_usd": 5.579,
+            "badges": [
+                {
+                    "code": "tikinow",
+                    "text": "tikinow"
+                },
+                {
+                    "code": "fast_delivery",
+                    "text": "Giao nhanh",
+                    "option": "2h"
+                }
+            ],
+            "discount": 7500,
+            "discount_rate": 5,
+            "rating_average": 5,
+            "review_count": 4512,
+            "order_count": 0,
+            "favourite_count": 0,
+            "thumbnail_url": "https:\/\/salt.tikicdn.com\/cache\/280x280\/ts\/product\/52\/bc\/60\/7f4b9571a3119fb493a31cedb71edee9.jpg",
+            "has_ebook": false,
+            "inventory_status": "available",
+            "is_visible": true,
+            "productset_group_name": "Nh\u00e0 S\u00e1ch Tiki\/S\u00e1ch ti\u1ebfng Vi\u1ec7t\/S\u00e1ch k\u1ef9 n\u0103ng s\u1ed1ng\/S\u00e1ch t\u01b0 duy - K\u1ef9 n\u0103ng s\u1ed1ng",
+            "is_fresh": false,
+            "seller": null,
+            "is_flower": false,
+            "is_gift_card": false,
+            "inventory": {
+                "product_virtual_type": null,
+                "fulfillment_type": "tiki_delivery"
+            },
+            "url_attendant_input_form": "",
+            "master_id": null,
+            "salable_type": "",
+            "seller_product_id": 42230122,
+            "sp_seller_id": 1,
+            "sp_seller_name": "Tiki Trading",
+            "installment_info": null,
+            "video_url": null,
+            "youtube": "",
+            "is_seller_in_chat_whitelist": true
+        },
+        {
+            "id": 46240929,
+            "sku": "8755420465428",
+            "name": "R\u00e8n Luy\u1ec7n T\u01b0 Duy Ph\u1ea3n Bi\u1ec7n",
+            "url_key": "ren-luyen-tu-duy-phan-bien-p46240929",
+            "url_path": "ren-luyen-tu-duy-phan-bien-p46240929.html?spid=46240930",
+            "type": "simple",
+            "book_cover": {
+                "id": 148966,
+                "value": "B\u00eca m\u1ec1m"
+            },
+            "short_description": "Nh\u01b0 b\u1ea1n c\u00f3 th\u1ec3 th\u1ea5y, ch\u00eca kh\u00f3a \u0111\u1ec3 tr\u1edf th\u00e0nh m\u1ed9t ng\u01b0\u1eddi c\u00f3 t\u01b0 duy ph\u1ea3n bi\u1ec7n t\u1ed1t ch\u00ednh l\u00e0 s\u1ef1 t\u1ef1 nh\u1eadn th\u1ee9c. B\u1ea1n c\u1ea7n ph\u1ea3i \u0111\u00e1nh gi\u00e1 trung th\u1ef1c nh\u1eefng \u0111i\u1ec1u tr\u01b0\u1edbc \u0111\u00e2y b\u1ea1n ngh\u0129 l\u00e0 \u0111\u00fang, c\u0169ng nh\u01b0 qu\u00e1 tr\u00ecnh suy...",
+            "price": 61380,
+            "list_price": 99000,
+            "price_usd": 2.624,
+            "badges": [
+                {
+                    "code": "tikinow",
+                    "text": "tikinow"
+                },
+                {
+                    "code": "fast_delivery",
+                    "text": "Giao nhanh",
+                    "option": "2h"
+                }
+            ],
+            "discount": 37620,
+            "discount_rate": 38,
+            "rating_average": 4.8,
+            "review_count": 5700,
+            "order_count": 0,
+            "favourite_count": 0,
+            "thumbnail_url": "https:\/\/salt.tikicdn.com\/cache\/280x280\/ts\/product\/22\/cb\/a9\/524a27dcd45e8a13ae6eecb3dfacba7c.jpg",
+            "has_ebook": false,
+            "inventory_status": "available",
+            "is_visible": true,
+            "productset_group_name": "Nh\u00e0 S\u00e1ch Tiki\/S\u00e1ch ti\u1ebfng Vi\u1ec7t\/S\u00e1ch k\u1ef9 n\u0103ng s\u1ed1ng\/S\u00e1ch t\u01b0 duy - K\u1ef9 n\u0103ng s\u1ed1ng",
+            "is_fresh": false,
+            "seller": null,
+            "is_flower": false,
+            "is_gift_card": false,
+            "inventory": {
+                "product_virtual_type": null,
+                "fulfillment_type": "tiki_delivery"
+            },
+            "url_attendant_input_form": "",
+            "master_id": null,
+            "salable_type": "",
+            "seller_product_id": 46240930,
+            "sp_seller_id": 1,
+            "sp_seller_name": "Tiki Trading",
+            "installment_info": null,
+            "video_url": null,
+            "youtube": "",
+            "is_seller_in_chat_whitelist": true
+        },
+        {
+            "id": 117238177,
+            "sku": "5673157495853",
+            "name": "Th\u01b0 Vi\u1ec7n N\u1eeda \u0110\u00eam",
+            "url_key": "thu-vien-nua-dem-p117238177",
+            "url_path": "thu-vien-nua-dem-p117238177.html?spid=117238178",
+            "type": "simple",
+            "book_cover": {
+                "id": 148966,
+                "value": "B\u00eca m\u1ec1m"
+            },
+            "short_description": "Th\u1eafng h\u1ea1ng m\u1ee5c s\u00e1ch h\u01b0 c\u1ea5u c\u1ee7a Goodreads.\n\u0110\u01b0\u1ee3c \u0111\u01b0a v\u00e0o danh s\u00e1ch t\u1ed5ng k\u1ebft s\u00e1ch hay nh\u1ea5t n\u0103m c\u1ee7a The Washington Post, Christian Science Monitor, New York Public Library, Boston Globe, Amazon, PureWow,...",
+            "price": 116000,
+            "list_price": 150000,
+            "price_usd": 4.959,
+            "badges": [
+                {
+                    "code": "tikinow",
+                    "text": "tikinow"
+                },
+                {
+                    "code": "fast_delivery",
+                    "text": "Giao nhanh",
+                    "option": "2h"
+                }
+            ],
+            "discount": 34000,
+            "discount_rate": 23,
+            "rating_average": 5,
+            "review_count": 1895,
+            "order_count": 0,
+            "favourite_count": 0,
+            "thumbnail_url": "https:\/\/salt.tikicdn.com\/cache\/280x280\/ts\/product\/8e\/32\/3d\/e4487c4c7e335bbda4f06dd54d8e35b8.jpg",
+            "has_ebook": false,
+            "inventory_status": "available",
+            "is_visible": true,
+            "productset_group_name": "Nh\u00e0 S\u00e1ch Tiki\/S\u00e1ch ti\u1ebfng Vi\u1ec7t\/S\u00e1ch v\u0103n h\u1ecdc\/Truy\u1ec7n Gi\u1ea3 t\u01b0\u1edfng - Huy\u1ec1n B\u00ed - Phi\u00eau L\u01b0u",
+            "is_fresh": false,
+            "seller": null,
+            "is_flower": false,
+            "is_gift_card": false,
+            "inventory": {
+                "product_virtual_type": null,
+                "fulfillment_type": "tiki_delivery"
+            },
+            "url_attendant_input_form": "",
+            "master_id": null,
+            "salable_type": "",
+            "seller_product_id": 117238178,
+            "sp_seller_id": 1,
+            "sp_seller_name": "Tiki Trading",
+            "installment_info": null,
+            "video_url": null,
+            "youtube": "",
+            "is_seller_in_chat_whitelist": true
+        },
+        {
+            "id": 1634981,
+            "sku": "3595469546314",
+            "name": "Gi\u1ea5y th\u1ea5m d\u1ea7u ki\u1ec3m so\u00e1t nh\u1eddn, ng\u1eeba m\u1ee5n Acnes Oil Remover Paper 100 t\u1edd",
+            "url_key": "giay-tham-dau-kiem-soat-nhon-ngua-mun-acnes-oil-remover-paper-100-to-p1634981",
+            "url_path": "giay-tham-dau-kiem-soat-nhon-ngua-mun-acnes-oil-remover-paper-100-to-p1634981.html?spid=10862722",
+            "type": "simple",
+            "book_cover": null,
+            "short_description": "\nGi\u1ea5y Th\u1ea5m D\u1ea7u Acnes Oil Remover Paper (100 T\u1edd)\u00a0h\u00fat d\u1ea7u nhanh, \u0111\u1eb7c bi\u1ec7t gi\u1ea5y ch\u1ec9 h\u00fat d\u1ea7u kh\u00f4ng h\u00fat m\u1ed3 h\u00f4i n\u00ean kh\u00f4ng g\u00e2y \u1ea3nh h\u01b0\u1edfng \u0111\u1ebfn \u0111\u1ed9 \u1ea9m c\u1ee7a da, kh\u00f4ng l\u00e0m tr\u00f4i l\u1edbp trang \u0111i\u1ec3m, gi\u00fap da s\u1ea1ch, kh\u00f4ng...",
+            "price": 26400,
+            "list_price": 30000,
+            "price_usd": 1.129,
+            "badges": [
+                {
+                    "code": "tikinow",
+                    "text": "tikinow"
+                },
+                {
+                    "code": "fast_delivery",
+                    "text": "Giao nhanh",
+                    "option": "2h"
+                }
+            ],
+            "discount": 3600,
+            "discount_rate": 12,
+            "rating_average": 4.7,
+            "review_count": 268,
+            "order_count": 0,
+            "favourite_count": 0,
+            "thumbnail_url": "https:\/\/salt.tikicdn.com\/cache\/280x280\/ts\/product\/66\/ec\/cd\/b129c9186edb82c4f1fdb3e182232e75.jpg",
+            "has_ebook": false,
+            "inventory_status": "available",
+            "is_visible": true,
+            "productset_group_name": "L\u00e0m \u0110\u1eb9p - S\u1ee9c Kh\u1ecfe\/Ch\u0103m s\u00f3c da m\u1eb7t\/T\u1ea9y trang",
+            "is_fresh": false,
+            "seller": null,
+            "is_flower": false,
+            "is_gift_card": false,
+            "inventory": {
+                "product_virtual_type": null,
+                "fulfillment_type": "tiki_delivery"
+            },
+            "url_attendant_input_form": "",
+            "master_id": null,
+            "salable_type": "",
+            "seller_product_id": 10862722,
+            "sp_seller_id": 1,
+            "sp_seller_name": "Tiki Trading",
+            "installment_info": null,
+            "video_url": null,
+            "youtube": "",
+            "is_seller_in_chat_whitelist": true
+        },
+        {
+            "id": 143217512,
+            "sku": "4078428870578",
+            "name": "\u0110i\u1ec1m T\u0129nh\u00a0V\u00e0\u00a0N\u00f3ng Gi\u1eadn",
+            "url_key": "diem-tinh-va-nong-gian-p143217512",
+            "url_path": "diem-tinh-va-nong-gian-p143217512.html?spid=143217516",
+            "type": "simple",
+            "book_cover": {
+                "id": 148966,
+                "value": "B\u00eca m\u1ec1m"
+            },
+            "short_description": "Trong cu\u1ed9c s\u1ed1ng th\u01b0\u1eddng ng\u00e0y, ch\u00fang ta th\u01b0\u1eddng n\u1ed5i gi\u1eadn v\u00ec nhi\u1ec1u nguy\u00ean do: c\u00f4ng vi\u1ec7c kh\u00f4ng su\u00f4n s\u1ebb, ch\u00fang ta t\u1ee9c gi\u1eadn; b\u1ecb ng\u01b0\u1eddi kh\u00e1c hi\u1ec3u nh\u1ea7m, ch\u00fang ta t\u1ee9c gi\u1eadn; th\u1ea5y vi\u1ec7c ch\u01b0\u1edbng tai gai m\u1eaft, ch\u00fang...",
+            "price": 69600,
+            "list_price": 69600,
+            "price_usd": 2.975,
+            "badges": [
+                {
+                    "code": "tikinow",
+                    "text": "tikinow"
+                },
+                {
+                    "code": "fast_delivery",
+                    "text": "Giao nhanh",
+                    "option": "2h"
+                }
+            ],
+            "discount": 0,
+            "discount_rate": 0,
+            "rating_average": 4.8,
+            "review_count": 1146,
+            "order_count": 0,
+            "favourite_count": 0,
+            "thumbnail_url": "https:\/\/salt.tikicdn.com\/cache\/280x280\/ts\/product\/60\/f4\/d1\/0675631bc561ba2ffe709475cfab8728.jpg",
+            "has_ebook": false,
+            "inventory_status": "available",
+            "is_visible": true,
+            "productset_group_name": "Nh\u00e0 S\u00e1ch Tiki\/S\u00e1ch ti\u1ebfng Vi\u1ec7t\/S\u00e1ch k\u1ef9 n\u0103ng s\u1ed1ng\/S\u00e1ch t\u01b0 duy - K\u1ef9 n\u0103ng s\u1ed1ng",
+            "is_fresh": false,
+            "seller": null,
+            "is_flower": false,
+            "is_gift_card": false,
+            "inventory": {
+                "product_virtual_type": null,
+                "fulfillment_type": "tiki_delivery"
+            },
+            "url_attendant_input_form": "",
+            "master_id": null,
+            "salable_type": "",
+            "seller_product_id": 143217516,
+            "sp_seller_id": 1,
+            "sp_seller_name": "Tiki Trading",
+            "installment_info": null,
+            "video_url": null,
+            "youtube": "",
+            "is_seller_in_chat_whitelist": true
+        },
+        {
+            "id": 72882553,
+            "sku": "5206085393869",
+            "name": "K\u1ef7 Lu\u1eadt T\u1ef1 Gi\u00e1c (T\u1eb7ng K\u00e8m Bookmark )",
+            "url_key": "ky-luat-tu-giac-tang-kem-bookmark-p72882553",
+            "url_path": "ky-luat-tu-giac-tang-kem-bookmark-p72882553.html?spid=72882555",
+            "type": "simple",
+            "book_cover": {
+                "id": 148966,
+                "value": "B\u00eca m\u1ec1m"
+            },
+            "short_description": "T\u1ef0 GI\u00c1C BAO NHI\u00caU, T\u1ef0 DO B\u1ea4Y NHI\u00caUTheo b\u1ea1n th\u00ec, th\u1ebf n\u00e0o l\u00e0 t\u1ef1 do?\nL\u00e0 c\u00f3 th\u1ec3 n\u1eb1m \u01b0\u1eddn tr\u00ean gh\u1ebf s\u00f4 pha xem phim, \u00f4m \u0111i\u1ec7n tho\u1ea1i l\u01b0\u1edbt m\u1ea1ng c\u1ea3 ng\u00e0y?\nHay l\u00e0 \u0111\u01b0\u1ee3c \u0103n tho\u1ea3i m\u00e1i c\u00e1c th\u1ec3 lo\u1ea1i \u0111\u1ed3 \u0103n nhanh, tr\u00e0...",
+            "price": 52080,
+            "list_price": 84000,
+            "price_usd": 2.226,
+            "badges": [
+                {
+                    "code": "tikinow",
+                    "text": "tikinow"
+                },
+                {
+                    "code": "fast_delivery",
+                    "text": "Giao nhanh",
+                    "option": "2h"
+                }
+            ],
+            "discount": 31920,
+            "discount_rate": 38,
+            "rating_average": 4.8,
+            "review_count": 2256,
+            "order_count": 0,
+            "favourite_count": 0,
+            "thumbnail_url": "https:\/\/salt.tikicdn.com\/cache\/280x280\/ts\/product\/27\/2e\/63\/308986aa2c17293af227162874ad24a3.jpg",
+            "has_ebook": false,
+            "inventory_status": "available",
+            "is_visible": true,
+            "productset_group_name": "Nh\u00e0 S\u00e1ch Tiki\/S\u00e1ch ti\u1ebfng Vi\u1ec7t\/S\u00e1ch k\u1ef9 n\u0103ng s\u1ed1ng\/S\u00e1ch t\u01b0 duy - K\u1ef9 n\u0103ng s\u1ed1ng",
+            "is_fresh": false,
+            "seller": null,
+            "is_flower": false,
+            "is_gift_card": false,
+            "inventory": {
+                "product_virtual_type": null,
+                "fulfillment_type": "tiki_delivery"
+            },
+            "url_attendant_input_form": "",
+            "master_id": null,
+            "salable_type": "",
+            "seller_product_id": 72882555,
+            "sp_seller_id": 1,
+            "sp_seller_name": "Tiki Trading",
+            "installment_info": null,
+            "video_url": null,
+            "youtube": "",
+            "is_seller_in_chat_whitelist": true
+        },
+        {
+            "id": 195801653,
+            "sku": "8450740041724",
+            "name": "Ch\u00fa Thu\u1eadt H\u1ed3i Chi\u1ebfn - T\u1eadp 6",
+            "url_key": "chu-thuat-hoi-chien-tap-6-p195801653",
+            "url_path": "chu-thuat-hoi-chien-tap-6-p195801653.html?spid=195801659",
+            "type": "configurable",
+            "book_cover": {
+                "id": 148966,
+                "value": "B\u00eca m\u1ec1m"
+            },
+            "short_description": "Ph\u00eda Kyoto l\u1ee3i d\u1ee5ng c\u01a1 h\u1ed9i giao l\u01b0u \u0111\u1ec3 tr\u1eeb kh\u1eed Itadori. Trong l\u00fac \u0111\u00f3, ch\u00fa nguy\u1ec1n s\u01b0 v\u00e0 ch\u00fa linh do Mahito c\u1ea7m \u0111\u1ea7u \u0111\u00e3 \u0111\u1ed9t nh\u1eadp v\u00e0o khu v\u1ef1c di\u1ec5n ra bu\u1ed5i giao l\u01b0u. Nh\u00f3m gi\u00e1o vi\u00ean \u0111\u1ecbnh t\u1edbi \u1ee9ng c\u1ee9u h\u1ecdc...",
+            "price": 24000,
+            "list_price": 30000,
+            "price_usd": 1.026,
+            "badges": [
+                {
+                    "code": "tikinow",
+                    "text": "tikinow"
+                },
+                {
+                    "code": "fast_delivery",
+                    "text": "Giao nhanh",
+                    "option": "2h"
+                }
+            ],
+            "discount": 6000,
+            "discount_rate": 20,
+            "rating_average": 5,
+            "review_count": 792,
+            "order_count": 0,
+            "favourite_count": 0,
+            "thumbnail_url": "https:\/\/salt.tikicdn.com\/cache\/280x280\/ts\/product\/ec\/9d\/5b\/4ecc9c3fef8fb9c356b312bd33fa0a56.jpg",
+            "has_ebook": false,
+            "inventory_status": "available",
+            "is_visible": true,
+            "productset_group_name": "Nh\u00e0 S\u00e1ch Tiki\/S\u00e1ch ti\u1ebfng Vi\u1ec7t\/Truy\u1ec7n Tranh, Manga, Comic",
+            "is_fresh": false,
+            "seller": null,
+            "is_flower": false,
+            "is_gift_card": false,
+            "inventory": {
+                "product_virtual_type": null,
+                "fulfillment_type": "tiki_delivery"
+            },
+            "url_attendant_input_form": "",
+            "master_id": null,
+            "salable_type": "",
+            "seller_product_id": 195801659,
+            "sp_seller_id": 1,
+            "sp_seller_name": "Tiki Trading",
+            "installment_info": null,
+            "video_url": null,
+            "youtube": "",
+            "is_seller_in_chat_whitelist": true
+        },
+        {
+            "id": 157432544,
+            "sku": "8467218185680",
+            "name": "Gi\u1ea3i Th\u00edch Ng\u1eef Ph\u00e1p Ti\u1ebfng Anh (V\u1edbi B\u00e0i T\u1eadp V\u00e0 \u0110\u00e1p \u00c1n) (T\u00e1i B\u1ea3n)",
+            "url_key": "giai-thich-ngu-phap-tieng-anh-voi-bai-tap-va-dap-an-tai-ban-p157432544",
+            "url_path": "giai-thich-ngu-phap-tieng-anh-voi-bai-tap-va-dap-an-tai-ban-p157432544.html?spid=157432545",
+            "type": "simple",
+            "book_cover": {
+                "id": 148966,
+                "value": "B\u00eca m\u1ec1m"
+            },
+            "short_description": "Ng\u1eef ph\u00e1p Ti\u1ebfng Anh t\u1ed5ng h\u1ee3p c\u00e1c ch\u1ee7 \u0111i\u1ec3m ng\u1eef ph\u00e1p tr\u1ecdng y\u1ebfu m\u00e0 h\u1ecdc sinh c\u1ea7n n\u1eafm v\u1eefng. C\u00e1c ch\u1ee7 \u0111i\u1ec3m ng\u1eef ph\u00e1p \u0111\u01b0\u1ee3c tr\u00ecnh b\u00e0y r\u00f5 r\u00e0ng, chi ti\u1ebft. Sau m\u1ed7i ch\u1ee7 \u0111i\u1ec3m ng\u1eef ph\u00e1p l\u00e0 ph\u1ea7n b\u00e0i t\u1eadp &amp; \u0111\u00e1p \u00e1n...",
+            "price": 136900,
+            "list_price": 220000,
+            "price_usd": 5.852,
+            "badges": [
+                {
+                    "code": "tikinow",
+                    "text": "tikinow"
+                },
+                {
+                    "code": "fast_delivery",
+                    "text": "Giao nhanh",
+                    "option": "2h"
+                }
+            ],
+            "discount": 83100,
+            "discount_rate": 38,
+            "rating_average": 5,
+            "review_count": 1542,
+            "order_count": 0,
+            "favourite_count": 0,
+            "thumbnail_url": "https:\/\/salt.tikicdn.com\/cache\/280x280\/ts\/product\/e1\/04\/31\/7763d9035552760f627c34acfec0e12f.jpg",
+            "has_ebook": false,
+            "inventory_status": "available",
+            "is_visible": true,
+            "productset_group_name": "Nh\u00e0 S\u00e1ch Tiki\/S\u00e1ch ti\u1ebfng Vi\u1ec7t\/S\u00e1ch H\u1ecdc Ngo\u1ea1i Ng\u1eef\/S\u00e1ch H\u1ecdc Ti\u1ebfng Anh",
+            "is_fresh": false,
+            "seller": null,
+            "is_flower": false,
+            "is_gift_card": false,
+            "inventory": {
+                "product_virtual_type": null,
+                "fulfillment_type": "tiki_delivery"
+            },
+            "url_attendant_input_form": "",
+            "master_id": null,
+            "salable_type": "",
+            "seller_product_id": 157432545,
+            "sp_seller_id": 1,
+            "sp_seller_name": "Tiki Trading",
+            "installment_info": null,
+            "video_url": null,
+            "youtube": "",
+            "is_seller_in_chat_whitelist": true
+        },
+        {
+            "id": 116410119,
+            "sku": "2825726353839",
+            "name": "T\u00fai N\u01b0\u1edbc gi\u1eb7t Omo N\u01b0\u1edbc gi\u1eb7t c\u1eeda tr\u01b0\u1edbc h\u01b0\u01a1ng Lavender Kh\u1eed m\u00f9i th\u01b0 th\u00e1i 3.6KG",
+            "url_key": "tui-nuoc-giat-omo-nuoc-giat-cua-truoc-huong-lavender-khu-mui-thu-thai-3-6kg-p116410119",
+            "url_path": "tui-nuoc-giat-omo-nuoc-giat-cua-truoc-huong-lavender-khu-mui-thu-thai-3-6kg-p116410119.html?spid=116410120",
+            "type": "simple",
+            "book_cover": null,
+            "short_description": "OMO MATIC - L\u1ef0A CH\u1eccN TH\u00d4NG MINH \u0110\u1ec2 CH\u0102M S\u00d3C \u00c1O QU\u1ea6N GIA \u0110\u00ccNH M\u1ed8T C\u00c1CH TO\u00c0N DI\u1ec6N NH\u1ea4T\n\nOMO Matic m\u1edbi \u0111\u01b0\u1ee3c n\u00e2ng c\u1ea5p v\u1edbi ho\u1ea1t ch\u1ea5t l\u00e0m s\u1ea1ch ngu\u1ed3n g\u1ed1c thi\u00ean nhi\u00ean, th\u00e2n thi\u1ec7n h\u01a1n v\u1edbi m\u00f4i tr\u01b0\u1eddng.\nC\u00f4ng...",
+            "price": 175000,
+            "list_price": 199000,
+            "price_usd": 7.481,
+            "badges": [
+                {
+                    "code": "tikinow",
+                    "text": "tikinow"
+                },
+                {
+                    "code": "fast_delivery",
+                    "text": "Giao nhanh",
+                    "option": "2h"
+                }
+            ],
+            "discount": 24000,
+            "discount_rate": 12,
+            "rating_average": 4.8,
+            "review_count": 1782,
+            "order_count": 0,
+            "favourite_count": 0,
+            "thumbnail_url": "https:\/\/salt.tikicdn.com\/cache\/280x280\/ts\/product\/15\/d5\/1d\/64a37269a97a049337a0de82152fd43c.jpg",
+            "has_ebook": false,
+            "inventory_status": "available",
+            "is_visible": true,
+            "productset_group_name": "\u0110\u1ed3 Ch\u01a1i - M\u1eb9 & B\u00e9\/Ch\u0103m s\u00f3c nh\u00e0 c\u1eeda\/Gi\u1eb7t gi\u0169 & Ch\u0103m s\u00f3c qu\u1ea7n \u00e1o\/N\u01b0\u1edbc gi\u1eb7t",
+            "is_fresh": false,
+            "seller": null,
+            "is_flower": false,
+            "is_gift_card": false,
+            "inventory": {
+                "product_virtual_type": null,
+                "fulfillment_type": "tiki_delivery"
+            },
+            "url_attendant_input_form": "",
+            "master_id": null,
+            "salable_type": "",
+            "seller_product_id": 116410120,
+            "sp_seller_id": 1,
+            "sp_seller_name": "Tiki Trading",
+            "installment_info": null,
+            "video_url": null,
+            "youtube": "",
+            "is_seller_in_chat_whitelist": true
+        },
+        {
+            "id": 5902685,
+            "sku": "4767008638425",
+            "name": "S\u1eefa r\u1eeda m\u1eb7t vitamin l\u00e0m s\u00e1ng da, m\u1edd s\u1eb9o th\u00e2m d\u1ea1ng kem Acnes Vitamin Cleanser 100g",
+            "url_key": "sua-rua-mat-vitamin-lam-sang-da-mo-seo-tham-dang-kem-acnes-vitamin-cleanser-100g-p5902685",
+            "url_path": "sua-rua-mat-vitamin-lam-sang-da-mo-seo-tham-dang-kem-acnes-vitamin-cleanser-100g-p5902685.html?spid=10863053",
+            "type": "simple",
+            "book_cover": null,
+            "short_description": "- L\u00e0n da c\u00f3 kh\u1ea3 n\u0103ng t\u1ef1 t\u00e1i t\u1ea1o, tuy nhi\u00ean kh\u1ea3 n\u0103ng n\u00e0y s\u1ebd suy gi\u1ea3m n\u1ebfu t\u1ebf b\u00e0o li\u00ean ti\u1ebfp b\u1ecb t\u1ed5n th\u01b0\u01a1ng do m\u1ee5n. V\u00ec v\u1eady, l\u00e0n da sau m\u1ee5n c\u1ea7n \u0111\u01b0\u1ee3c ch\u0103m s\u00f3c \u0111\u1eb7c bi\u1ec7t.\n- Kem r\u1eeda m\u1eb7t Acnes Vitamin Cleanser...",
+            "price": 54400,
+            "list_price": 61000,
+            "price_usd": 2.325,
+            "badges": [],
+            "discount": 6600,
+            "discount_rate": 11,
+            "rating_average": 4.8,
+            "review_count": 288,
+            "order_count": 0,
+            "favourite_count": 0,
+            "thumbnail_url": "https:\/\/salt.tikicdn.com\/cache\/280x280\/ts\/product\/26\/9b\/d5\/f260775034cd0c10b8b7a1364fa6bab8.jpg",
+            "has_ebook": false,
+            "inventory_status": "available",
+            "is_visible": true,
+            "productset_group_name": "L\u00e0m \u0110\u1eb9p - S\u1ee9c Kh\u1ecfe\/Ch\u0103m s\u00f3c da m\u1eb7t\/S\u1eefa r\u1eeda m\u1eb7t",
+            "is_fresh": false,
+            "seller": null,
+            "is_flower": false,
+            "is_gift_card": false,
+            "inventory": {
+                "product_virtual_type": null,
+                "fulfillment_type": "tiki_delivery"
+            },
+            "url_attendant_input_form": "",
+            "master_id": null,
+            "salable_type": "",
+            "seller_product_id": 10863053,
+            "sp_seller_id": 1,
+            "sp_seller_name": "Tiki Trading",
+            "installment_info": null,
+            "video_url": null,
+            "youtube": "",
+            "is_seller_in_chat_whitelist": true
+        },
+        {
+            "id": 197719874,
+            "sku": "5992701291366",
+            "name": "Suy Ngh\u0129 Th\u1ed1ng K\u00ea Trong \u0110\u1eddi Th\u01b0\u1eddng",
+            "url_key": "suy-nghi-thong-ke-trong-doi-thuong-p197719874",
+            "url_path": "suy-nghi-thong-ke-trong-doi-thuong-p197719874.html?spid=197719875",
+            "type": "simple",
+            "book_cover": {
+                "id": 148966,
+                "value": "B\u00eca m\u1ec1m"
+            },
+            "short_description": "Ch\u00fang ta \u0111ang s\u1ed1ng trong m\u1ed9t x\u00e3 h\u1ed9i hi\u1ec7n \u0111\u1ea1i, m\u1ed9t x\u00e3 h\u1ed9i m\u00e0 nhu c\u1ea7u v\u1ec1 hi\u1ec3u bi\u1ebft con s\u1ed1 tr\u1edf n\u00ean r\u1ea5t quan tr\u1ecdng. H\u1ea7u nh\u01b0 m\u1ed7i ng\u00e0y ch\u00fang ta \u0111\u1ec1u \u0111\u01b0\u1ee3c \u201cd\u1ed9i bom\u201d b\u1eb1ng nh\u1eefng con s\u1ed1 th\u1ed1ng k\u00ea v\u1ec1 t\u00ecnh h\u00ecnh...",
+            "price": 102000,
+            "list_price": 160000,
+            "price_usd": 4.36,
+            "badges": [
+                {
+                    "code": "tikinow",
+                    "text": "tikinow"
+                },
+                {
+                    "code": "fast_delivery",
+                    "text": "Giao nhanh",
+                    "option": "2h"
+                }
+            ],
+            "discount": 58000,
+            "discount_rate": 36,
+            "rating_average": 5,
+            "review_count": 164,
+            "order_count": 0,
+            "favourite_count": 0,
+            "thumbnail_url": "https:\/\/salt.tikicdn.com\/cache\/280x280\/ts\/product\/55\/5e\/a6\/dd0a224ea101cbefb2770bb9c4f5a30d.jpg",
+            "has_ebook": false,
+            "inventory_status": "available",
+            "is_visible": true,
+            "productset_group_name": "Nh\u00e0 S\u00e1ch Tiki\/S\u00e1ch ti\u1ebfng Vi\u1ec7t\/S\u00e1ch kinh t\u1ebf\/S\u00e1ch k\u1ef9 n\u0103ng l\u00e0m vi\u1ec7c",
+            "is_fresh": false,
+            "seller": null,
+            "is_flower": false,
+            "is_gift_card": false,
+            "inventory": {
+                "product_virtual_type": null,
+                "fulfillment_type": "tiki_delivery"
+            },
+            "url_attendant_input_form": "",
+            "master_id": null,
+            "salable_type": "",
+            "seller_product_id": 197719875,
+            "sp_seller_id": 1,
+            "sp_seller_name": "Tiki Trading",
+            "installment_info": null,
+            "video_url": null,
+            "youtube": "",
+            "is_seller_in_chat_whitelist": true
+        },
+        {
+            "id": 121635152,
+            "sku": "4626380643723",
+            "name": "Kh\u00f4ng Ai C\u00f3 Th\u1ec3 L\u00e0m B\u1ea1n T\u1ed5n Th\u01b0\u01a1ng Tr\u1eeb Khi B\u1ea1n Cho Ph\u00e9p (T\u1eb7ng K\u00e8m 1 B\u1ed9 Bookmark G\u1ed3m 4 C\u00e1i)",
+            "url_key": "khong-ai-co-the-lam-ban-ton-thuong-tru-khi-ban-cho-phep-tang-kem-1-bo-bookmark-gom-4-cai-p121635152",
+            "url_path": "khong-ai-co-the-lam-ban-ton-thuong-tru-khi-ban-cho-phep-tang-kem-1-bo-bookmark-gom-4-cai-p121635152.html?spid=121635153",
+            "type": "simple",
+            "book_cover": {
+                "id": 148966,
+                "value": "B\u00eca m\u1ec1m"
+            },
+            "short_description": "KH\u00d4NG AI C\u00d3 TH\u1ec2 L\u00c0M B\u1ea0N T\u1ed4N TH\u01af\u01a0NG TR\u1eea KHI B\u1ea0N CHO PH\u00c9P \u2013 YOO EUN JUNG\nCh\u00fang ta v\u1eabn th\u01b0\u1eddng ngh\u0129 m\u00ecnh s\u1ebd ch\u1ec9 h\u1ea1nh ph\u00fac khi \u1edf b\u00ean c\u1ea1nh ai \u0111\u00f3 v\u00e0 nh\u1eadn \u0111\u01b0\u1ee3c y\u00eau th\u01b0\u01a1ng t\u1eeb h\u1ecd. Nh\u01b0ng th\u1ef1c ch\u1ea5t, h\u1ea1nh ph\u00fac...",
+            "price": 86400,
+            "list_price": 119000,
+            "price_usd": 3.693,
+            "badges": [
+                {
+                    "code": "tikinow",
+                    "text": "tikinow"
+                },
+                {
+                    "code": "fast_delivery",
+                    "text": "Giao nhanh",
+                    "option": "2h"
+                }
+            ],
+            "discount": 32600,
+            "discount_rate": 27,
+            "rating_average": 5,
+            "review_count": 1800,
+            "order_count": 0,
+            "favourite_count": 0,
+            "thumbnail_url": "https:\/\/salt.tikicdn.com\/cache\/280x280\/ts\/product\/0c\/ff\/1f\/091c739d2cc4c1b2a3a9c5025930adcc.jpg",
+            "has_ebook": false,
+            "inventory_status": "available",
+            "is_visible": true,
+            "productset_group_name": "Nh\u00e0 S\u00e1ch Tiki\/S\u00e1ch ti\u1ebfng Vi\u1ec7t\/S\u00e1ch k\u1ef9 n\u0103ng s\u1ed1ng\/S\u00e1ch t\u01b0 duy - K\u1ef9 n\u0103ng s\u1ed1ng",
+            "is_fresh": false,
+            "seller": null,
+            "is_flower": false,
+            "is_gift_card": false,
+            "inventory": {
+                "product_virtual_type": null,
+                "fulfillment_type": "tiki_delivery"
+            },
+            "url_attendant_input_form": "",
+            "master_id": null,
+            "salable_type": "",
+            "seller_product_id": 121635153,
+            "sp_seller_id": 1,
+            "sp_seller_name": "Tiki Trading",
+            "installment_info": null,
+            "video_url": null,
+            "youtube": "",
+            "is_seller_in_chat_whitelist": true
+        },
+        {
+            "id": 97594364,
+            "sku": "9485440855465",
+            "name": "Lu\u1eadt T\u00e2m Th\u1ee9c - Gi\u1ea3i M\u00e3 Ma Tr\u1eadn V\u0169 Tr\u1ee5",
+            "url_key": "luat-tam-thuc-giai-ma-ma-tran-vu-tru-p97594364",
+            "url_path": "luat-tam-thuc-giai-ma-ma-tran-vu-tru-p97594364.html?spid=127522207",
+            "type": "configurable",
+            "book_cover": {
+                "id": 148966,
+                "value": "B\u00eca m\u1ec1m"
+            },
+            "short_description": "D\u1ecbch b\u1ec7nh, thi\u00ean tai, chi\u1ebfn tranh\u2026 c\u00f3 ph\u1ea3i l\u00e0 l\u1eddi c\u1ea3nh c\u00e1o c\u1ee7a t\u1ef1 nhi\u00ean \u0111\u1ebfn con ng\u01b0\u1eddi?\n\u201cBi\u1ebfn \u0111\u1ed5i kh\u00ed h\u1eadu\u201d l\u00e0 m\u1ed9t n\u01b0\u1edbc \u0111i ch\u00ednh tr\u1ecb hay ch\u1ec9 l\u00e0 s\u1ef1 thay \u0111\u1ed5i c\u1ee7a Tr\u00e1i \u0110\u1ea5t theo chu k\u1ef3?\nUFO, ng\u01b0\u1eddi ngo\u00e0i...",
+            "price": 229000,
+            "list_price": 282000,
+            "price_usd": 9.789,
+            "badges": [
+                {
+                    "code": "tikinow",
+                    "text": "tikinow"
+                },
+                {
+                    "code": "fast_delivery",
+                    "text": "Giao nhanh",
+                    "option": "2h"
+                }
+            ],
+            "discount": 53000,
+            "discount_rate": 19,
+            "rating_average": 4.8,
+            "review_count": 8233,
+            "order_count": 0,
+            "favourite_count": 0,
+            "thumbnail_url": "https:\/\/salt.tikicdn.com\/cache\/280x280\/ts\/product\/72\/cb\/a0\/287ff7a5cde1f1ab6bd3dbcab28494e4.jpg",
+            "has_ebook": false,
+            "inventory_status": "available",
+            "is_visible": true,
+            "productset_group_name": "Nh\u00e0 S\u00e1ch Tiki\/S\u00e1ch ti\u1ebfng Vi\u1ec7t\/S\u00e1ch Ki\u1ebfn Th\u1ee9c T\u1ed5ng H\u1ee3p\/L\u0129nh v\u1ef1c kh\u00e1c",
+            "is_fresh": false,
+            "seller": null,
+            "is_flower": false,
+            "is_gift_card": false,
+            "inventory": {
+                "product_virtual_type": null,
+                "fulfillment_type": "tiki_delivery"
+            },
+            "url_attendant_input_form": "",
+            "master_id": null,
+            "salable_type": "",
+            "seller_product_id": 127522207,
+            "sp_seller_id": 1,
+            "sp_seller_name": "Tiki Trading",
+            "installment_info": null,
+            "video_url": null,
+            "youtube": "",
+            "is_seller_in_chat_whitelist": true
+        },
+        {
+            "id": 190861557,
+            "sku": "5337995399326",
+            "name": "Y\u00eau Nh\u1eefng Ng\u00e0y N\u1eafng Ch\u1eb3ng Gh\u00e9t Nh\u1eefng Ng\u00e0y M\u01b0a",
+            "url_key": "yeu-nhung-ngay-nang-chang-ghet-nhung-ngay-mua-p190861557",
+            "url_path": "yeu-nhung-ngay-nang-chang-ghet-nhung-ngay-mua-p190861557.html?spid=190861559",
+            "type": "configurable",
+            "book_cover": {
+                "id": 148966,
+                "value": "B\u00eca m\u1ec1m"
+            },
+            "short_description": "Sau th\u00e0nh c\u00f4ng c\u1ee7a \u201cT\u00f4 b\u00ecnh y\u00ean v\u1ebd h\u1ea1nh ph\u00fac\u201d v\u00e0 \u201cM\u00ecnh ch\u1ec9 l\u00e0 ng\u01b0\u1eddi b\u00ecnh th\u01b0\u1eddng\u201d, ch\u00e0ng h\u1ecda s\u0129 n\u1ed5i ti\u1ebfng \u0111a t\u00e0i Kulzsc \u0111\u00e3 quay tr\u1edf l\u1ea1i v\u1edbi \u201cY\u00eau nh\u1eefng ng\u00e0y n\u1eafng Ch\u1eb3ng gh\u00e9t nh\u1eefng ng\u00e0y m\u01b0a\u201d. Cu\u1ed1n s\u00e1ch...",
+            "price": 106000,
+            "list_price": 279000,
+            "price_usd": 4.531,
+            "badges": [
+                {
+                    "code": "tikinow",
+                    "text": "tikinow"
+                },
+                {
+                    "code": "fast_delivery",
+                    "text": "Giao nhanh",
+                    "option": "2h"
+                }
+            ],
+            "discount": 173000,
+            "discount_rate": 62,
+            "rating_average": 5,
+            "review_count": 891,
+            "order_count": 0,
+            "favourite_count": 0,
+            "thumbnail_url": "https:\/\/salt.tikicdn.com\/cache\/280x280\/ts\/product\/7f\/9a\/63\/4a0aee6548dfa4f7ae9f95c1c46b983c.jpg",
+            "has_ebook": false,
+            "inventory_status": "available",
+            "is_visible": true,
+            "productset_group_name": "Nh\u00e0 S\u00e1ch Tiki\/S\u00e1ch ti\u1ebfng Vi\u1ec7t\/\u0110i\u1ec7n \u1ea2nh - Nh\u1ea1c - H\u1ecda\/S\u00e1ch T\u00f4 M\u00e0u D\u00e0nh Cho Ng\u01b0\u1eddi L\u1edbn",
+            "is_fresh": false,
+            "seller": null,
+            "is_flower": false,
+            "is_gift_card": false,
+            "inventory": {
+                "product_virtual_type": null,
+                "fulfillment_type": "tiki_delivery"
+            },
+            "url_attendant_input_form": "",
+            "master_id": null,
+            "salable_type": "",
+            "seller_product_id": 190861559,
+            "sp_seller_id": 1,
+            "sp_seller_name": "Tiki Trading",
+            "installment_info": null,
+            "video_url": null,
+            "youtube": "",
+            "is_seller_in_chat_whitelist": true
+        },
+        {
+            "id": 196515658,
+            "sku": "3091437735835",
+            "name": "Blue Period - T\u1eadp 04",
+            "url_key": "blue-period-tap-04-p196515658",
+            "url_path": "blue-period-tap-04-p196515658.html?spid=196515662",
+            "type": "simple",
+            "book_cover": {
+                "id": 148966,
+                "value": "B\u00eca m\u1ec1m"
+            },
+            "short_description": "Yataro Yaguchi l\u00e0 m\u1ed9t h\u1ecdc sinh xu\u1ea5t s\u1eafc nh\u01b0ng c\u00f3 l\u1ed1i s\u1ed1ng bu\u00f4ng th\u1ea3, kh\u00f4ng m\u1ee5c \u0111\u00edch. M\u1ed9t ng\u00e0y n\u1ecd, t\u1eadn m\u1eaft chi\u00eam ng\u01b0\u1ee1ng b\u1ee9c tranh c\u1ee7a m\u1ed9t ch\u1ecb l\u1edbp tr\u00ean \u1edf CLB M\u1ef9 thu\u1eadt, Yataro ho\u00e0n to\u00e0n b\u1ecb h\u00fat h\u1ed3n v\u00e0...",
+            "price": 43000,
+            "list_price": 48000,
+            "price_usd": 1.838,
+            "badges": [],
+            "discount": 5000,
+            "discount_rate": 10,
+            "rating_average": 5,
+            "review_count": 178,
+            "order_count": 0,
+            "favourite_count": 0,
+            "thumbnail_url": "https:\/\/salt.tikicdn.com\/cache\/280x280\/ts\/product\/0b\/47\/a6\/c0c6b79d8894219acaa53815f9ea9a22.jpg",
+            "has_ebook": false,
+            "inventory_status": "available",
+            "is_visible": true,
+            "productset_group_name": "Nh\u00e0 S\u00e1ch Tiki\/S\u00e1ch ti\u1ebfng Vi\u1ec7t\/Truy\u1ec7n Tranh, Manga, Comic",
+            "is_fresh": false,
+            "seller": null,
+            "is_flower": false,
+            "is_gift_card": false,
+            "inventory": {
+                "product_virtual_type": null,
+                "fulfillment_type": "tiki_delivery"
+            },
+            "url_attendant_input_form": "",
+            "master_id": null,
+            "salable_type": "",
+            "seller_product_id": 196515662,
+            "sp_seller_id": 1,
+            "sp_seller_name": "Tiki Trading",
+            "installment_info": null,
+            "video_url": null,
+            "youtube": "",
+            "is_seller_in_chat_whitelist": true
+        },
+        {
+            "id": 1559411,
+            "sku": "6951651845776",
+            "name": "Phi\u1ebfu Qu\u00e0 T\u1eb7ng 50.000\u0111",
+            "url_key": "phieu-qua-tang-50-000d-p1559411",
+            "url_path": "phieu-qua-tang-50-000d-p1559411.html?spid=1559413",
+            "type": "simple",
+            "book_cover": null,
+            "short_description": "Phi\u1ebfu Qu\u00e0 T\u1eb7ng Tiki\n\nB\u1ea1n \u0111au \u0111\u1ea7u b\u1edfi tuy r\u1ea5t mu\u1ed1n d\u00e0nh t\u1eb7ng s\u1ef1 tr\u00e2n tr\u1ecdng nh\u01b0ng l\u1ea1i kh\u00f4ng bi\u1ebft ch\u1ecdn mua g\u00ec \u0111\u1ec3 d\u00e0nh cho ng\u01b0\u1eddi th\u00e2n, b\u1ea1n b\u00e8, \u0111\u1ed1i t\u00e1c, kh\u00e1ch h\u00e0 trong d\u1ecbp l\u1ec5 n\u00e0y ?\nB\u1ea1n c\u0169ng mu\u1ed1n kh\u00edch l\u1ec7...",
+            "price": 50000,
+            "list_price": 50000,
+            "price_usd": 2.137,
+            "badges": [],
+            "discount": 0,
+            "discount_rate": 0,
+            "rating_average": 4.8,
+            "review_count": 482,
+            "order_count": 0,
+            "favourite_count": 0,
+            "thumbnail_url": "https:\/\/salt.tikicdn.com\/cache\/280x280\/ts\/product\/8a\/3a\/2e\/9692aea8f1b91f970c85b05bfb8b1966.jpg",
+            "has_ebook": false,
+            "inventory_status": "available",
+            "is_visible": true,
+            "productset_group_name": "Voucher - D\u1ecbch v\u1ee5\/Phi\u1ebfu qu\u00e0 t\u1eb7ng",
+            "is_fresh": false,
+            "seller": null,
+            "is_flower": false,
+            "is_gift_card": false,
+            "inventory": {
+                "product_virtual_type": "egiftcard",
+                "fulfillment_type": "instant_delivery"
+            },
+            "url_attendant_input_form": "",
+            "master_id": null,
+            "salable_type": "",
+            "seller_product_id": 1559413,
+            "sp_seller_id": 1,
+            "sp_seller_name": "Tiki Trading",
+            "installment_info": null,
+            "video_url": null,
+            "youtube": "",
+            "is_seller_in_chat_whitelist": true
+        },
+        {
+            "id": 912679,
+            "sku": "8223162602291",
+            "name": "Th\u00f9ng Bia Tiger 24 Lon (330ml \/ Lon)",
+            "url_key": "thung-bia-tiger-24-lon-330ml-lon-p912679",
+            "url_path": "thung-bia-tiger-24-lon-330ml-lon-p912679.html?spid=912727",
+            "type": "simple",
+            "book_cover": null,
+            "short_description": "\nR\u1ea1ng danh m\u1ed9t th\u01b0\u01a1ng hi\u1ec7u tuy\u1ec7t h\u1ea3o \u2013 \u0111\u00f3 l\u00e0 Tiger Bia Tiger \u0111\u01b0\u1ee3c l\u00ean men t\u1ef1 nhi\u00ean t\u1eeb hoa bia v\u00e0 l\u00faa m\u1ea1ch th\u01b0\u01a1\u0323ng ha\u0323ng nh\u1eadp kh\u1ea9u t\u1eeb Ch\u00e2u \u00c2u t\u1ea1o n\u00ean m\u1ed9t lo\u1ea1i bia v\u1edbi h\u01b0\u01a1ng v\u1ecb v\u00e0 ch\u1ea5t l\u01b0\u1ee3ng tuy\u1ec7t h\u1ea3o....",
+            "price": 373000,
+            "list_price": 373000,
+            "price_usd": 15.945,
+            "badges": [
+                {
+                    "code": "tikinow",
+                    "text": "tikinow"
+                },
+                {
+                    "code": "fast_delivery",
+                    "text": "Giao nhanh",
+                    "option": "24h"
+                }
+            ],
+            "discount": 0,
+            "discount_rate": 0,
+            "rating_average": 4.8,
+            "review_count": 2228,
+            "order_count": 0,
+            "favourite_count": 0,
+            "thumbnail_url": "https:\/\/salt.tikicdn.com\/cache\/280x280\/ts\/product\/ef\/28\/9d\/6f55bab81c93481fe97d7f5e2e217127.jpg",
+            "has_ebook": false,
+            "inventory_status": "available",
+            "is_visible": true,
+            "productset_group_name": "B\u00e1ch H\u00f3a Online\/\u0110\u1ed3 u\u1ed1ng c\u00f3 c\u1ed3n\/Bia v\u00e0 N\u01b0\u1edbc hoa qu\u1ea3 l\u00ean men\/Bia N\u1ed9i \u0110\u1ecba",
+            "is_fresh": false,
+            "seller": null,
+            "is_flower": false,
+            "is_gift_card": false,
+            "inventory": {
+                "product_virtual_type": null,
+                "fulfillment_type": "tiki_delivery"
+            },
+            "url_attendant_input_form": "",
+            "master_id": null,
+            "salable_type": "",
+            "seller_product_id": 912727,
+            "sp_seller_id": 1,
+            "sp_seller_name": "Tiki Trading",
+            "installment_info": null,
+            "video_url": null,
+            "youtube": "",
+            "is_seller_in_chat_whitelist": true
+        },
+        {
+            "id": 194959173,
+            "sku": "7372241689726",
+            "name": "Semantic Error \u2013 L\u1ed7i Logic (T\u1eadp 2)",
+            "url_key": "semantic-error-loi-logic-tap-2-p194959173",
+            "url_path": "semantic-error-loi-logic-tap-2-p194959173.html?spid=194959175",
+            "type": "configurable",
+            "book_cover": null,
+            "short_description": "Semantic Error \u2013 L\u1ed7i Logic (T\u1eadp 2)\n\u201cHai ch\u00fang ta r\u1ea5t kh\u00e1c nhau n\u00ean v\u1ed1n d\u0129 em c\u0169ng ch\u1eb3ng y\u00eau th\u00edch \u0111i\u1ec1u g\u00ec \u1edf anh. Nh\u01b0ng khi \u0111\u00e3 th\u00edch m\u1ed9t l\u1ea7n r\u1ed3i, sau n\u00e0y s\u1ebd kh\u00f4ng c\u00f2n gh\u00e9t \u0111\u01b0\u1ee3c n\u1eefa. T\u1eeb tr\u01b0\u1edbc \u0111\u1ebfn gi\u1edd...",
+            "price": 201000,
+            "list_price": 359000,
+            "price_usd": 8.592,
+            "badges": [
+                {
+                    "code": "tikinow",
+                    "text": "tikinow"
+                },
+                {
+                    "code": "fast_delivery",
+                    "text": "Giao nhanh",
+                    "option": "2h"
+                }
+            ],
+            "discount": 158000,
+            "discount_rate": 44,
+            "rating_average": 4.8,
+            "review_count": 657,
+            "order_count": 0,
+            "favourite_count": 0,
+            "thumbnail_url": "https:\/\/salt.tikicdn.com\/cache\/280x280\/ts\/product\/4e\/e5\/bd\/a45bbb502db3054a857bdfb707d1c040.png",
+            "has_ebook": false,
+            "inventory_status": "available",
+            "is_visible": true,
+            "productset_group_name": "Nh\u00e0 S\u00e1ch Tiki\/S\u00e1ch ti\u1ebfng Vi\u1ec7t\/S\u00e1ch v\u0103n h\u1ecdc\/Truy\u1ec7n \u0111am m\u1ef9",
+            "is_fresh": false,
+            "seller": null,
+            "is_flower": false,
+            "is_gift_card": false,
+            "inventory": {
+                "product_virtual_type": null,
+                "fulfillment_type": "tiki_delivery"
+            },
+            "url_attendant_input_form": "",
+            "master_id": null,
+            "salable_type": "",
+            "seller_product_id": 194959175,
+            "sp_seller_id": 1,
+            "sp_seller_name": "Tiki Trading",
+            "installment_info": null,
+            "video_url": null,
+            "youtube": "",
+            "is_seller_in_chat_whitelist": true
+        },
+        {
+            "id": 15973974,
+            "sku": "1231755070744",
+            "name": "Th\u00f9ng 48 H\u1ed9p S\u1eefa Nestl\u00e9 Milo \u00cdt \u0110\u01b0\u1eddng (180ml\/ H\u1ed9p)",
+            "url_key": "thung-48-hop-sua-nestle-milo-it-duong-180ml-hop-p15973974",
+            "url_path": "thung-48-hop-sua-nestle-milo-it-duong-180ml-hop-p15973974.html?spid=15973975",
+            "type": "simple",
+            "book_cover": null,
+            "short_description": "\nTh\u00f9ng 48 H\u1ed9p S\u1eefa Nestl\u00e9 Milo \u00cdt \u0110\u01b0\u1eddng (180ml\/ H\u1ed9p)\u00a0v\u1edbi h\u1ee3p ch\u1ea5t ACTIV-GO V\u01b0\u01a1n Xa l\u00e0 s\u1ef1 k\u1ebft h\u1ee3p \u0111\u1ed9c \u0111\u00e1o c\u1ee7a PROTOMALT - chi\u1ebft xu\u1ea5t t\u1eeb m\u1ea7m l\u00faa m\u1ea1ch - v\u00e0 t\u1ed5 h\u1ee3p c\u00e1c vitamin c\u00f9ng kho\u00e1ng ch\u1ea5t thi\u1ebft y\u1ebfu,...",
+            "price": 351000,
+            "list_price": 370000,
+            "price_usd": 15.004,
+            "badges": [
+                {
+                    "code": "tikinow",
+                    "text": "tikinow"
+                },
+                {
+                    "code": "fast_delivery",
+                    "text": "Giao nhanh",
+                    "option": "24h"
+                }
+            ],
+            "discount": 19000,
+            "discount_rate": 5,
+            "rating_average": 4.8,
+            "review_count": 1286,
+            "order_count": 0,
+            "favourite_count": 0,
+            "thumbnail_url": "https:\/\/salt.tikicdn.com\/cache\/280x280\/ts\/product\/29\/de\/1b\/42d082e245b3ef1131c633d54b9dd20f.jpg",
+            "has_ebook": false,
+            "inventory_status": "available",
+            "is_visible": true,
+            "productset_group_name": "B\u00e1ch H\u00f3a Online\/S\u1eefa v\u00e0 c\u00e1c S\u1ea3n ph\u1ea9m t\u1eeb s\u1eefa\/S\u1eefa n\u01b0\u1edbc\/C\u00e1c S\u1ea3n Ph\u1ea9m T\u1eeb S\u1eefa Kh\u00e1c",
+            "is_fresh": false,
+            "seller": null,
+            "is_flower": false,
+            "is_gift_card": false,
+            "inventory": {
+                "product_virtual_type": null,
+                "fulfillment_type": "tiki_delivery"
+            },
+            "url_attendant_input_form": "",
+            "master_id": null,
+            "salable_type": "",
+            "seller_product_id": 15973975,
+            "sp_seller_id": 1,
+            "sp_seller_name": "Tiki Trading",
+            "installment_info": null,
+            "video_url": null,
+            "youtube": "",
+            "is_seller_in_chat_whitelist": true
+        },
+        {
+            "id": 72459686,
+            "sku": "4125558840055",
+            "name": "How Psychology Works - Hi\u1ec3u H\u1ebft V\u1ec1 T\u00e2m L\u00fd H\u1ecdc",
+            "url_key": "how-psychology-works-hieu-het-ve-tam-ly-hoc-p72459686",
+            "url_path": "how-psychology-works-hieu-het-ve-tam-ly-hoc-p72459686.html?spid=72459687",
+            "type": "simple",
+            "book_cover": {
+                "id": 148970,
+                "value": "B\u00eca c\u1ee9ng"
+            },
+            "short_description": "M\u1ed8T TRONG NH\u1eeeNG CU\u1ed0N S\u00c1CH M\u1ede KH\u00d3A H\u1eeeU \u00cdCH NH\u1ea4T V\u1ec0 T\u01af DUY, K\u00dd \u1ee8C V\u00c0 C\u1ea2M X\u00daC C\u1ee6A CON NG\u01af\u1edcI!\n\u00c1m s\u1ee3 l\u00e0 g\u00ec, \u00e1m s\u1ee3 c\u00f3 th\u1ef1c s\u1ef1 \u0111\u00e1ng s\u1ee3 kh\u00f4ng? R\u1ed1i lo\u1ea1n t\u00e2m l\u00fd l\u00e0 g\u00ec, l\u00e0m th\u1ebf n\u00e0o \u0111\u1ec3 tho\u00e1t kh\u1ecfi t\u00ecnh tr\u1ea1ng suy...",
+            "price": 232000,
+            "list_price": 300000,
+            "price_usd": 9.917,
+            "badges": [
+                {
+                    "code": "tikinow",
+                    "text": "tikinow"
+                },
+                {
+                    "code": "fast_delivery",
+                    "text": "Giao nhanh",
+                    "option": "2h"
+                }
+            ],
+            "discount": 68000,
+            "discount_rate": 23,
+            "rating_average": 4.8,
+            "review_count": 4214,
+            "order_count": 0,
+            "favourite_count": 0,
+            "thumbnail_url": "https:\/\/salt.tikicdn.com\/cache\/280x280\/ts\/product\/2b\/84\/ff\/cb34637573525a998596b58d6939411e.jpg",
+            "has_ebook": false,
+            "inventory_status": "available",
+            "is_visible": true,
+            "productset_group_name": "Nh\u00e0 S\u00e1ch Tiki\/S\u00e1ch ti\u1ebfng Vi\u1ec7t\/S\u00e1ch k\u1ef9 n\u0103ng s\u1ed1ng\/S\u00e1ch t\u01b0 duy - K\u1ef9 n\u0103ng s\u1ed1ng",
+            "is_fresh": false,
+            "seller": null,
+            "is_flower": false,
+            "is_gift_card": false,
+            "inventory": {
+                "product_virtual_type": null,
+                "fulfillment_type": "tiki_delivery"
+            },
+            "url_attendant_input_form": "",
+            "master_id": null,
+            "salable_type": "",
+            "seller_product_id": 72459687,
+            "sp_seller_id": 1,
+            "sp_seller_name": "Tiki Trading",
+            "installment_info": null,
+            "video_url": null,
+            "youtube": "",
+            "is_seller_in_chat_whitelist": true
+        },
+        {
+            "id": 59143353,
+            "sku": "1627779549081",
+            "name": "Combo Ti\u1ebft Ki\u1ec7m: 6 G\u00f3i Kh\u0103n \u01af\u1edbt Bobby Care Kh\u00f4ng H\u01b0\u01a1ng 100 Mi\u1ebfng\/G\u00f3i",
+            "url_key": "combo-tiet-kiem-6-goi-khan-uot-bobby-care-khong-huong-100-mieng-goi-p59143353",
+            "url_path": "combo-tiet-kiem-6-goi-khan-uot-bobby-care-khong-huong-100-mieng-goi-p59143353.html?spid=59143354",
+            "type": "simple",
+            "book_cover": null,
+            "short_description": "\nCombo Ti\u1ebft Ki\u1ec7m: 6 G\u00f3i Kh\u0103n \u01af\u1edbt Bobby Care Kh\u00f4ng H\u01b0\u01a1ng 100 Mi\u1ebfng\/G\u00f3i l\u00e0 s\u1ea3n ph\u1ea9m ch\u0103m s\u00f3c s\u1ee9c kh\u1ecfe gi\u00fap B\u00e9 y\u00eau v\u00e0 c\u1ea3 gia \u0111\u00ecnh tr\u00e1nh nhi\u1ec5m khu\u1ea9n m\u1ed9t c\u00e1ch An to\u00e0n v\u00e0 \u01afu vi\u1ec7t! Nh\u1edd \u1ee9ng d\u1ee5ng c\u00f4ng ngh\u1ec7...",
+            "price": 183000,
+            "list_price": 246000,
+            "price_usd": 7.823,
+            "badges": [
+                {
+                    "code": "tikinow",
+                    "text": "tikinow"
+                },
+                {
+                    "code": "fast_delivery",
+                    "text": "Giao nhanh",
+                    "option": "2h"
+                }
+            ],
+            "discount": 63000,
+            "discount_rate": 26,
+            "rating_average": 4.8,
+            "review_count": 675,
+            "order_count": 0,
+            "favourite_count": 0,
+            "thumbnail_url": "https:\/\/salt.tikicdn.com\/cache\/280x280\/ts\/product\/27\/54\/be\/05e5965f00ecb660ab08283a85c9403d.jpg",
+            "has_ebook": false,
+            "inventory_status": "available",
+            "is_visible": true,
+            "productset_group_name": "\u0110\u1ed3 Ch\u01a1i - M\u1eb9 & B\u00e9\/T\u00e3, B\u1ec9m\/Kh\u0103n gi\u1ea5y \u01b0\u1edbt cho b\u00e9",
+            "is_fresh": false,
+            "seller": null,
+            "is_flower": false,
+            "is_gift_card": false,
+            "inventory": {
+                "product_virtual_type": null,
+                "fulfillment_type": "tiki_delivery"
+            },
+            "url_attendant_input_form": "",
+            "master_id": null,
+            "salable_type": "",
+            "seller_product_id": 59143354,
+            "sp_seller_id": 1,
+            "sp_seller_name": "Tiki Trading",
+            "installment_info": null,
+            "video_url": null,
+            "youtube": "",
+            "is_seller_in_chat_whitelist": true
+        }
+    ],
+    "paging": {
+        "total": 10000,
+        "per_page": 1,
+        "current_page": 1,
+        "last_page": 10000,
+        "from": 1,
+        "to": 1
+    },
+    "aggregations": {
+        "category": {
+            "values": [],
+            "display_name": "Danh M\u1ee5c S\u1ea3n Ph\u1ea9m",
+            "query_name": "category",
+            "selected": false,
+            "is_visible": true,
+            "name": "Danh M\u1ee5c S\u1ea3n Ph\u1ea9m"
+        }
+    },
+    "sellers": [],
+    "sort_options": [
+        {
+            "display_value": "Ch\u1ecdn l\u1ecdc",
+            "query_value": "position",
+            "selected": true
+        },
+        {
+            "display_value": "H\u00e0ng m\u1edbi",
+            "query_value": "newest",
+            "selected": false
+        },
+        {
+            "display_value": "B\u00e1n ch\u1ea1y",
+            "query_value": "top_seller",
+            "selected": false
+        },
+        {
+            "display_value": "Gi\u1ea3m gi\u00e1 nhi\u1ec1u",
+            "query_value": "discount_percent,desc",
+            "selected": false
+        },
+        {
+            "display_value": "Gi\u00e1 th\u1ea5p",
+            "query_value": "price,asc",
+            "selected": false
+        },
+        {
+            "display_value": "Gi\u00e1 cao",
+            "query_value": "price,desc",
+            "selected": false
+        }
+    ]
+}

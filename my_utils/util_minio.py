@@ -1,6 +1,9 @@
-import boto3
+import pyarrow.parquet as pq
+import pyarrow as pa
 import pandas as pd
 from io import BytesIO
+import boto3
+import pyarrow.fs as fs
 
 
 class MinioHandler:
@@ -9,6 +12,10 @@ class MinioHandler:
         access_key = 'minioadmin'
         secret_key = '12345678'
         self.s3_resource = self._get_s3_resource(endpoint_url, access_key, secret_key)
+        self.s3_client = boto3.client('s3',
+                                endpoint_url=endpoint_url,
+                                aws_access_key_id=access_key,
+                                aws_secret_access_key=secret_key)
 
 
     def _get_s3_resource(self, endpoint_url, access_key, secret_key):
@@ -58,3 +65,16 @@ class MinioHandler:
             self.s3_resource.Bucket(bucket_name).upload_file(file_path, object_name)
         except Exception as e:
             raise Exception(f"Error uploading file: {e}")
+        
+
+    def upload_parquet(self, bucket_name, object_name, dataframe, partition_cols=None):
+
+        try:
+            # Write DataFrame to Parquet format
+            with BytesIO() as f:
+                dataframe.to_parquet(f, index=False, partition_cols=partition_cols)
+                f.seek(0)
+                # Use LocalFileSystem to write Parquet file to MinIO
+                fs.LocalFileSystem().write_pybytes(f"s3://{bucket_name}/{object_name}", f.getvalue())
+        except Exception as e:
+            raise Exception(f"Error uploading Parquet file: {e}")
