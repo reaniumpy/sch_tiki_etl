@@ -58,4 +58,4 @@ LEFT JOIN
 WHERE
     (dim_product.name <> dim_product_scd2.name OR dim_product.origin <> dim_product_scd2.origin OR dim_product.brand_name <> dim_product_scd2.brand_name)
     --AND dim_product_scd2.id IS null
-    and dim_product_scd2.is_current = true
+    --and dim_product_scd2.is_current = true
