@@ -14,7 +14,7 @@ services:
       - minio_data:/data
     command: server /data --console-address ":9001"
     networks:
-          - tiki_etl_network
+      - tiki_etl_network
 
 
   postgres:
@@ -29,7 +29,7 @@ services:
     volumes:
       - postgres_data:/var/lib/postgresql/data
     networks:
-          - tiki_etl_network
+      - tiki_etl_network
 
 
 volumes:
