@@ -13,7 +13,9 @@ services:
     volumes:
       - minio_data:/data
     command: server /data --console-address ":9001"
-    network_mode: af_network
+    networks:
+          - tiki_etl_network
+
 
   postgres:
     image: postgres:16
@@ -26,8 +28,17 @@ services:
       - "35432:5432"
     volumes:
       - postgres_data:/var/lib/postgresql/data
-    network_mode: af_network
+    networks:
+          - tiki_etl_network
+
 
 volumes:
   postgres_data:
   minio_data:
+
+networks:
+  tiki_etl_network:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 172.16.238.0/24  # Define the subnet
