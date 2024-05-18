@@ -8,14 +8,14 @@ module_path = os.path.abspath(os.path.join('..'))
 if module_path not in sys.path:
     sys.path.append(module_path + "/my_utils")
 
-import util_minio
+from util_minio import MinioHandler
 
 class Extract:
-    def __init__(self, api_url, params, headers, minio_handler, bucket_name):
+    def __init__(self, api_url, params, headers, bucket_name):
         self.api_url = api_url
         self.params = params
         self.headers = headers
-        self.minio_handler = minio_handler
+        self.minio_handler = MinioHandler()
         self.bucket_name = bucket_name
 
     def remove_keys_recursive(self, d, keys_to_remove):
@@ -68,8 +68,7 @@ class Extract:
         pd_df.rename(columns={"id": "tiki_pid"}, inplace=True)
         pd_df["ingestion_date"] = pd.to_datetime(pd.to_datetime(pd_df["ingestion_dt_unix"], unit='s').dt.date)
         pd_df["quantity_sold_value"] = pd_df["quantity_sold_value"] + 4
-        collection_string = 'https://api.tiki.vn/seller-store/v2/collections/116532/products'.split('/')[-2]
-        csv_name = f'raw_{collection_string}_{unix_timestamp}.csv'
+        csv_name = f'raw_{unix_timestamp}.csv'
         return pd_df, csv_name
 
     def save_to_minio(self, dataframe, file_name):
@@ -81,15 +80,3 @@ class Extract:
         self.save_to_minio(df, f"raw/{csv_name}")
         print(f'Exported to Minio: {csv_name}')
         return csv_name
-
-
-# Example usage:
-if __name__ == "__main__":
-    minio_handler = util_minio.MinioHandler()
-    api_url = 'https://api.tiki.vn/seller-store/v2/collections/116532/products'
-    params = {'limit': 100, 'cursor': 40}
-    headers = {'x-source': 'local', 'Host': 'api.tiki.vn'}
-    bucket_name = "tiki"
-
-    extractor = Extract(api_url, params, headers, minio_handler, bucket_name)
-    extracted_file = extractor.execute()

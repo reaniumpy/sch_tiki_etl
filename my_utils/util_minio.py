@@ -6,12 +6,15 @@ import boto3
 import pyarrow.fs as fs
 
 
+
 class MinioHandler:
     def __init__(self):
         endpoint_url = 'http://localhost:9000'
         access_key = 'minioadmin'
         secret_key = '12345678'
         self.s3_resource = self._get_s3_resource(endpoint_url, access_key, secret_key)
+        self.storage_options = {'endpoint_url': 'http://localhost:9000', 'key': 'minioadmin', 'secret': '12345678'}
+        
 
     def _get_s3_resource(self, endpoint_url, access_key, secret_key):
         """
