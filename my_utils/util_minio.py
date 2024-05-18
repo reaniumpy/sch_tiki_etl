@@ -26,16 +26,6 @@ class MinioHandler:
     def download_to_dataframe(self, bucket_name, object_name):
         """
         Downloads data from the specified S3 bucket and object as a pandas DataFrame.
-
-        Args:
-            bucket_name (str): Name of the S3 bucket containing the object.
-            object_name (str): Name of the object to download.
-
-        Returns:
-            pandas.DataFrame: The downloaded data as a DataFrame.
-
-        Raises:
-            Exception: If any error occurs during download.
         """
         try:
             obj = self.s3_resource.Bucket(bucket_name).Object(object_name).get()
@@ -47,14 +37,6 @@ class MinioHandler:
     def upload_file(self, bucket_name, object_name, file_path):
         """
         Uploads a file to the specified S3 bucket and object.
-
-        Args:
-            bucket_name (str): Name of the S3 bucket to upload the file to.
-            object_name (str): Name of the object to create in S3.
-            file_path (str): Path to the local file to upload.
-
-        Raises:
-            Exception: If any error occurs during upload.
         """
         try:
             self.s3_resource.Bucket(bucket_name).upload_file(file_path, object_name)
@@ -64,14 +46,6 @@ class MinioHandler:
     def save_dataframe_to_csv(self, bucket_name, object_name, dataframe):
         """
         Saves a pandas DataFrame to a CSV file and uploads it to the specified S3 bucket.
-
-        Args:
-            bucket_name (str): Name of the S3 bucket to upload the file to.
-            object_name (str): Name of the object to create in S3.
-            dataframe (pandas.DataFrame): The DataFrame to save.
-
-        Raises:
-            Exception: If any error occurs during saving or upload.
         """
         try:
             csv_buffer = BytesIO()
