@@ -34,7 +34,9 @@ FROM
 LEFT JOIN
     dim_product_scd2 ON dim_product.tiki_pid = dim_product_scd2.tiki_pid
 WHERE
-    (dim_product.name <> dim_product_scd2.name OR dim_product.origin <> dim_product_scd2.origin OR dim_product.brand_name <> dim_product_scd2.brand_name)
+    (dim_product.name IS DISTINCT FROM dim_product_scd2.name 
+        OR dim_product.origin IS DISTINCT FROM dim_product_scd2.origin 
+        OR dim_product.brand_name IS DISTINCT FROM dim_product_scd2.brand_name)
     and dim_product_scd2.is_current = true
 
 
